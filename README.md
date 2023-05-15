@@ -1,5 +1,5 @@
 - 🫡 Hi, I’m @LauraAllObe
-- 🤓 I’m interested in Software Engineering, Software Architecture, Artificial Intelligence, and Web and Mobile App Development.
+- 🌞 I’m interested in Software Engineering, Software Architecture, Artificial Intelligence, and Web and Mobile App Development.
 - ✍️ I’m currently learning C# and .NET (to develop a downplayed version of the legal practice management software, PracticePanther), Advanced Programming with Java, and Mobile Programming 
   using java (with a concentration on Android)
 - 📒 I have already learned C++ (which covers basic syntax, Dynamic Memory Allocation, inheritance, and Aggregation and Composition), basics of C# (app design and unity specific), 
