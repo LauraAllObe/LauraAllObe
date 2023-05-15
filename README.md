@@ -7,7 +7,7 @@
   queues, stack, binary heaps, priority queue, topological sorting, various sorting algorithms [bubble, insertion, shell, mergesort, quicksort, and heaposrt], Algorithm Analysis and 
   Runtime, hash [seperate chaining and linear probing], trees traversals, a complete binary tree vector representation, and binary search trees)
 - 🤝 I’m looking to collaborate on ...
-- 📦 How to reach me~~
+- 🛎️ How to reach me~~
   FSU Email: lao21@fsu.edu
   General Email: lauraaobermaier@gmail.com
   Discord: Laura O#1898
