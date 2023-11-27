@@ -34,8 +34,8 @@ About My Repositories and Programming Experience:
     
     🤝 I’m looking to collaborate on ... (nothing to note here so far)
     
-  A Brief Overview on All Projects:
-  =================================
+A Brief Overview on All Projects:
+=================================
     /finalProject: full-stack sticky note (android) mobile application in java
     /Summer2022Proj0: full-stack PracticePanther (Law Practice Management Software) implementation in C#
     
