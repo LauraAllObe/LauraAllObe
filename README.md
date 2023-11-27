@@ -12,6 +12,11 @@ A Little More About Me:
     Development. Currently, I am seeking a part-time or paid internship position remotely or in-person in the Hoboken, 
     New Jersey area. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
     factor that, in my opinion, makes up a good team.
+
+A Brief Overview on All Repositories:
+=====================================
+    /finalProject: full-stack sticky note (android) mobile application in java
+    /Summer2022Proj0: full-stack PracticePanther (Law Practice Management Software) implementation in C#
     
 About My Repositories and Programming Experience:
 =================================================
@@ -33,11 +38,6 @@ About My Repositories and Programming Experience:
     and ____ (C) (future COP4610 proj 3 repo clone).
     
     🤝 I’m looking to collaborate on ... (nothing to note here so far)
-    
-A Brief Overview on All Projects:
-=================================
-    /finalProject: full-stack sticky note (android) mobile application in java
-    /Summer2022Proj0: full-stack PracticePanther (Law Practice Management Software) implementation in C#
     
 Contact Information:
 ====================
