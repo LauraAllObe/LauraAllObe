@@ -13,6 +13,8 @@ A Little More About Me:
     New Jersey area. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
     factor that, in my opinion, makes up a good team.
 
+[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe)](https://github.com/anuraghazra/github-readme-stats)
+
 A Brief Overview on All Repositories:
 =====================================
     /finalProject: full-stack sticky note (android) mobile application in java
