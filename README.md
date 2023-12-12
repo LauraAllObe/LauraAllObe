@@ -22,11 +22,11 @@ ___
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 ___
 # A Brief Overview on All Repositories:
-/finalProject: full-stack sticky note (android) mobile application in java  
-/Summer2022Proj0: full-stack PracticePanther (Law Practice Management Software) implementation in C#  
-/shell: a minimal shell implementation in C  
-/elevatorKernelModule: an elevator kernel module implementation in C that utilizes three custom system calls  
-/fat32filesystem: basic fat 32 file system image manipulation in C  
+**/finalProject:** full-stack sticky note (android) mobile application in java  
+**/Summer2022Proj0:** full-stack PracticePanther (Law Practice Management Software) implementation in C#  
+**/shell:** a minimal shell implementation in C  
+**/elevatorKernelModule:** an elevator kernel module implementation in C that utilizes three custom system calls  
+**/fat32filesystem:** basic fat 32 file system image manipulation in C  
 ___ 
 # About My Repositories and Programming Experience:
 ✍️ I’m currently working on a fat32 little endian file system in C and on moving and refining my previous projects, 
