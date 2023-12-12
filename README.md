@@ -43,8 +43,7 @@ mergesort, quicksort, and heaposrt], Algorithm Analysis and Runtime, hash [seper
 traversals, a complete binary tree vector representation, and binary search trees).
 
 📜 My best individual projects can be found in the Summer2022Proj0 (C#) and ________ (Python) (future python repo to move 
-from GitLab). My best team projects can be found in the finalProject (Java), ______ (C) (future COP4610 proj 1 repo clone), 
-and ____ (C) (future COP4610 proj 3 repo clone).
+from GitLab). My best team projects can be found in the finalProject (Java), shell (C), and fat32filesystem (C).
 
 🤝 I’m looking to collaborate on ... (nothing to note here so far)
 ___
