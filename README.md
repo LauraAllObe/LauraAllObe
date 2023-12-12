@@ -16,6 +16,7 @@ ___
 ___
 # A Brief Overview on All Repositories:
 /finalProject: full-stack sticky note (android) mobile application in java
+
 /Summer2022Proj0: full-stack PracticePanther (Law Practice Management Software) implementation in C#
 ___ 
 # About My Repositories and Programming Experience:
