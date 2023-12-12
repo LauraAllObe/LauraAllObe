@@ -15,8 +15,7 @@ ___
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 ___
 # A Brief Overview on All Repositories:
-/finalProject: full-stack sticky note (android) mobile application in java
-
+/finalProject: full-stack sticky note (android) mobile application in java  
 /Summer2022Proj0: full-stack PracticePanther (Law Practice Management Software) implementation in C#
 ___ 
 # About My Repositories and Programming Experience:
@@ -40,10 +39,10 @@ and ____ (C) (future COP4610 proj 3 repo clone).
 🤝 I’m looking to collaborate on ... (nothing to note here so far)
 ___
 # Contact Information:
-🛎️ How to reach me~~
-~~FSU Email: lao21@fsu.edu~~
-Stevens Email: lobermai@stevens.edu
-General Email: lauraaobermaier@gmail.com
-Discord: laura2936
-LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226
+🛎️ How to reach me~~  
+~~FSU Email: lao21@fsu.edu~~  
+Stevens Email: lobermai@stevens.edu  
+General Email: lauraaobermaier@gmail.com  
+Discord: laura2936  
+LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226  
 ___
