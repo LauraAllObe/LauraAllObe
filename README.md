@@ -4,12 +4,19 @@ Bachelors of Science in Computer Science and am pursuing my Masters in Software 
 2.5 years to earn my Masters (note only 7 entrance credits) as an honors student, graduating before I turned 21 has been
 one of my greatest achievements so far. My goal is to stay in software engineering until I have a good grasp of project 
 flow (a minimum of two years full-time employment), after which I'd like to approach the field of Software Architecture.
-___
-# A Little More About Me:
+
 🌞 I’m interested in Software Engineering, Software Architecture, Artificial Intelligence, and Web and Mobile Application
 Development. Currently, I am seeking a part-time or paid internship position remotely or in-person in the Hoboken, 
 New Jersey area. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
+___
+# A Little More About Me:
+🧸 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
+anime. Plants and tayloring have also been recent interests of mine. 
+
+🍯 In terms of character, my most pronounced characteristics are my organization, dedication, focus, calm, and humanity;
+but also my stubbornness and social illiteracy. I put both my strengths and weaknesses here as I believe everyone to have
+them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.
 ___
 # My Stats:
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
