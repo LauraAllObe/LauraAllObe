@@ -1,6 +1,6 @@
-![Alt Text](https://github.com/LauraAllObe/1311416_eb367.gif)
+# Welcome to Laura's Github!<img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/1311416_eb367.gif" width="80" height="80" />
 
-# Introduction
+## Introduction
 🫡 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
 Bachelors of Science in Computer Science and am pursuing my Masters in Software Engineering. With a 3.9 GPA and only 
 2.5 years to earn my Masters (note only 7 entrance credits) as an honors student, graduating before I turned 21 has been
@@ -12,7 +12,7 @@ Development. Currently, I am seeking a part-time or paid internship position rem
 New Jersey area. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
 ___
-# A Little More About Me:
+## A Little More About Me:
 🧸 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
 anime. Plants and tayloring have also been recent interests of mine. 
 
@@ -20,17 +20,17 @@ anime. Plants and tayloring have also been recent interests of mine.
 but also my stubbornness and social illiteracy. I put both my strengths and weaknesses here as I believe everyone to have
 them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.
 ___
-# My Stats:
+## My Stats:
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 ___
-# A Brief Overview on All Repositories:
+## A Brief Overview on All Repositories:
 **/finalProject:** full-stack sticky note (android) mobile application in java  
 **/Summer2022Proj0:** full-stack PracticePanther (Law Practice Management Software) implementation in C#  
 **/shell:** a minimal shell implementation in C  
 **/elevatorKernelModule:** an elevator kernel module implementation in C  
 **/fat32filesystem:** basic fat32 file system image manipulation in C  
 ___ 
-# About My Repositories and Programming Experience:
+## About My Repositories and Programming Experience:
 ✍️ I’m currently working on a fat32 little endian file system in C and on moving and refining my previous projects, 
 such as by adding demonstration videos.
 
@@ -49,7 +49,7 @@ from GitLab). My best team projects can be found in the finalProject (Java), she
 
 🤝 I’m looking to collaborate on ... (nothing to note here so far)
 ___
-# Contact Information:
+## Contact Information:
 🛎️ How to reach me~~  
 Stevens Email: lobermai@stevens.edu  
 General Email: lauraaobermaier@gmail.com  
