@@ -11,7 +11,7 @@
 ####    New Jersey area. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 ####    factor that, in my opinion, makes up a good team.
 
-My Stats:
+# My Stats:
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 # A Brief Overview on All Repositories:
@@ -20,7 +20,7 @@ My Stats:
     
 # About My Repositories and Programming Experience:
 ####    ✍️ I’m currently working on a fat32 little endian file system in C and on moving and refining my previous projects, 
-####    such as by adding demonstration videos.
+####    ...such as by adding demonstration videos.
     
 ####    📒 I have already learned C++ (which covered basic syntax, Dynamic Memory Allocation, inheritance, and Aggregation and 
 ####    Composition), C# (full-stack web application development which covered .NET, MAUI, EF Context[Factory], and json), mySQL, 
