@@ -1,4 +1,4 @@
-# Welcome to Laura's Github!<img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/1311416_eb367.gif" width="80" height="80" />
+# <h1 align="center">Welcome to Laura's Github!<img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/1311416_eb367.gif" width="80" height="80" /></h1>
 
 ## Introduction
 🫡 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
