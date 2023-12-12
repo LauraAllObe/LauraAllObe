@@ -25,7 +25,7 @@ ___
 **/finalProject:** full-stack sticky note (android) mobile application in java  
 **/Summer2022Proj0:** full-stack PracticePanther (Law Practice Management Software) implementation in C#  
 **/shell:** a minimal shell implementation in C  
-**/elevatorKernelModule:** an elevator kernel module implementation in C that utilizes three custom system calls  
+**/elevatorKernelModule:** an elevator kernel module implementation in C  
 **/fat32filesystem:** basic fat32 file system image manipulation in C  
 ___ 
 # About My Repositories and Programming Experience:
