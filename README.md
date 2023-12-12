@@ -1,6 +1,6 @@
 Introduction
 ============
-    🫡 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
+####    🫡 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
     Bachelors of Science in Computer Science and am pursuing my Masters in Software Engineering. With a 3.9 GPA and only 
     2.5 years to earn my Masters (note only 7 entrance credits) as an honors student, graduating before I turned 21 has been
     one of my greatest achievements so far. My goal is to stay in software engineering until I have a good grasp of project 
