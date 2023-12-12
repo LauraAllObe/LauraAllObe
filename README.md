@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/LauraAllObe/1311416_eb367.gif)
+
 # Introduction
 🫡 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
 Bachelors of Science in Computer Science and am pursuing my Masters in Software Engineering. With a 3.9 GPA and only 
