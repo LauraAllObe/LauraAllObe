@@ -31,7 +31,7 @@ ___
 **/fat32filesystem:** basic fat32 file system image manipulation in C  
 ___ 
 ## About My Repositories and Programming Experience:
-🐻 I’m currently working on a fat32 little endian file system in C and on moving and refining my previous projects, 
+🐻 I’m currently working on a full-stack capstone group project in javascript and refining my previous projects, 
 such as by adding demonstration videos.
 
 💼 I have already learned C++ (which covered basic syntax, Dynamic Memory Allocation, inheritance, and Aggregation and 
