@@ -26,7 +26,7 @@ ___
 **/Summer2022Proj0:** full-stack PracticePanther (Law Practice Management Software) implementation in C#  
 **/shell:** a minimal shell implementation in C  
 **/elevatorKernelModule:** an elevator kernel module implementation in C that utilizes three custom system calls  
-**/fat32filesystem:** basic fat 32 file system image manipulation in C  
+**/fat32filesystem:** basic fat32 file system image manipulation in C  
 ___ 
 # About My Repositories and Programming Experience:
 ✍️ I’m currently working on a fat32 little endian file system in C and on moving and refining my previous projects, 
