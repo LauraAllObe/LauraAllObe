@@ -50,7 +50,6 @@ and ____ (C) (future COP4610 proj 3 repo clone).
 ___
 # Contact Information:
 🛎️ How to reach me~~  
-~~FSU Email: lao21@fsu.edu~~  
 Stevens Email: lobermai@stevens.edu  
 General Email: lauraaobermaier@gmail.com  
 Discord: laura2936  
