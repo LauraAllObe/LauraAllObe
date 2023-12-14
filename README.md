@@ -25,11 +25,13 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&theme=graywhite&langs_count=5" href="https://github.com/anuraghazra/github-readme-stats" height="195">
 ___
 ## A Brief Overview on All Repositories:
-**/finalProject:** full-stack sticky note (android) mobile application in java  
-**/Summer2022Proj0:** full-stack PracticePanther (Law Practice Management Software) implementation in C#  
-**/shell:** a minimal shell implementation in C  
-**/elevatorKernelModule:** an elevator kernel module implementation in C  
-**/fat32filesystem:** basic fat32 file system image manipulation in C  
+**/finalProject:** full-stack sticky note (android) mobile application, implementation in java (group)  
+**/Summer2022Proj0:** full-stack PracticePanther (Law Practice Management Software) implementation in C# (individual)  
+**/shell:** a minimal shell implementation in C (group)  
+**/elevatorKernelModule:** an elevator kernel module implementation in C (group)  
+**/fat32filesystem:** basic fat32 file system image manipulation in C (group)  
+**/hackerNews:** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
+**/proFessUp:** full-stack rateMyProfessor implementation in JavaScript (group)  
 ___ 
 ## About My Repositories and Programming Experience:
 🐻 I’m currently working on a full-stack capstone group project in javascript and refining my previous projects, 
@@ -45,7 +47,7 @@ queues, stack, binary heaps, priority queue, topological sorting, various sortin
 mergesort, quicksort, and heaposrt], Algorithm Analysis and Runtime, hash [seperate chaining and linear probing], trees 
 traversals, a complete binary tree vector representation, and binary search trees).
 
-🦫 My best individual projects can be found in the Summer2022Proj0 (C#) and ________ (Python) (future python repo to move 
+🦫 My best individual projects can be found in the Summer2022Proj0 (C#) and hackerNews (Python) (future python repo to move 
 from GitLab). My best team projects can be found in the finalProject (Java), shell (C), and fat32filesystem (C).
 
 🪶 I’m looking to collaborate on ... (nothing to note here so far)
