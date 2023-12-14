@@ -22,7 +22,7 @@ them and as I have found a lack of honesty to be only briefly effective at accom
 ___
 ## My Stats:
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&theme=graywhite&langs_count=8" href="https://github.com/anuraghazra/github-readme-stats" height="195">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&theme=graywhite&langs_count=5" href="https://github.com/anuraghazra/github-readme-stats" height="195">
 ___
 ## A Brief Overview on All Repositories:
 **/finalProject:** full-stack sticky note (android) mobile application in java  
