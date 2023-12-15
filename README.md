@@ -1,4 +1,4 @@
-# <h1 align="center" valign="center"><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/welcomeMessage.gif" height="40" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/1311416_eb367.gif" width="60" height="60" /></h1>
+# <h1 align="center" valign="center"><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/welcomeMessage.gif" height="40" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /></h1>
 
 ## Introduction
 🐌 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
