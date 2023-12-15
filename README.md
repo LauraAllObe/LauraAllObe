@@ -29,7 +29,7 @@ ___
 **/Summer2022Proj0:** full-stack PracticePanther (Law Practice Management Software) implementation in C# (individual)  
 **/shell:** a minimal shell implementation in C (group)  
 **/elevatorKernelModule:** an elevator kernel module implementation in C (group)  
-**/fat32filesystem:** basic fat32 file system image manipulation in C (group)  
+**/fat32filesystem:** basic fat32 file system implementation in C (group)  
 **/hackerNews:** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
 **/proFessUp:** full-stack rateMyProfessor implementation in JavaScript (group)  
 ###### *Note: most group projects were cloned from another directory or repository upon completion*
