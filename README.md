@@ -25,13 +25,13 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&theme=graywhite&langs_count=5" href="https://github.com/anuraghazra/github-readme-stats" height="195">
 ___
 ## A Brief Overview on All Repositories:
-**/finalProject:** full-stack sticky note (android) mobile application, implementation in java (group)  
-**/Summer2022Proj0:** full-stack PracticePanther (Law Practice Management Software) implementation in C# (individual)  
-**/shell:** a minimal shell implementation in C (group)  
-**/elevatorKernelModule:** an elevator kernel module implementation in C (group)  
-**/fat32filesystem:** basic fat32 file system implementation in C (group)  
-**/hackerNews:** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
-**/proFessUp:** full-stack rateMyProfessor implementation in JavaScript (group)  
+**[/finalProject:](https://github.com/LauraAllObe/finalProject)** full-stack sticky note (android) mobile application, implementation in java (group)  
+**[/Summer2022Proj0:](https://github.com/LauraAllObe/Summer2022Proj0)** full-stack PracticePanther (Law Practice Management Software) implementation in C# (individual)  
+**[/shell:](https://github.com/LauraAllObe/shell)** a minimal shell implementation in C (group)  
+**[/elevatorKernelModule:](https://github.com/LauraAllObe/elevatorKernelModule)** an elevator kernel module implementation in C (group)  
+**[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat32 file system implementation in C (group)  
+**[/hackerNews:](https://github.com/LauraAllObe/hackerNews)** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
+**[/proFessUp:](https://github.com/LauraAllObe/proFessUp)** full-stack rateMyProfessor implementation in JavaScript (group)  
 ###### *Note: most group projects were cloned from another directory or repository upon completion*
 ___ 
 ## About My Repositories and Programming Experience:
