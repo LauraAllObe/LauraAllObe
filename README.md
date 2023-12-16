@@ -21,8 +21,8 @@ but also my stubbornness and social illiteracy. I put both my strengths and weak
 them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.
 ___
 ## My Stats:
-[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=faf4e8&icon_color=faf4e8&show_icons=true&card_width=456.5)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&langs_count=5&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=faf4e8&card_width=706.5" href="https://github.com/anuraghazra/github-readme-stats" height="195">
+[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=faf4e8&icon_color=faf4e8&show_icons=true&card_width=406.5)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&langs_count=5&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=faf4e8&card_width=656.5" href="https://github.com/anuraghazra/github-readme-stats" height="195">
 ___
 ## A Brief Overview on All Repositories:
 **[/finalProject:](https://github.com/LauraAllObe/finalProject)** full-stack sticky note (android) mobile application, implementation in java (group)  
