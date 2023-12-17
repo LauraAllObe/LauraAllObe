@@ -3,11 +3,11 @@
 <div align="center" valign="center" ><a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a></div>
 
 ## Introduction
-🐌 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Mastsers student,  
-I've earned my __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__. With a __3.9 GPA__ and only  
-__2.5 years to earn my Bachelors__ (note only 7 entrance credits) as an __honors student__, graduating before I turned 21 has been
-one of my greatest achievements so far. My goal is to stay in __Software Engineering__ until I have a good grasp of project 
-flow (a minimum of two years full-time employment), after which I'd like to approach the field of __Software Architecture__.
+🐌 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Mastsers  
+student, I've earned my __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__. With a 
+__3.9 GPA__ and only __2.5 years to earn my Bachelors__ (note only 7 entrance credits) as an __honors student__, graduating before 
+I turned 21 has been one of my greatest achievements so far. My goal is to stay in __Software Engineering__ until I have a good 
+grasp of project flow (a minimum of two years full-time employment), after which I'd like to approach the field of __Software Architecture__.
 
 🎻 I’m interested in Software Engineering, Software Architecture, Artificial Intelligence, and Web and Mobile Application
 Development. Currently, I am __seeking a part-time or paid internship__ position remote or in-person in the Hoboken, 
