@@ -83,8 +83,8 @@ from GitLab). My best team projects can be found in the finalProject (Java), pro
 ___
 ## Contact Information:
 🪜 How to reach me~~  
-Stevens Email: lobermai@stevens.edu  
-General Email: lauraaobermaier@gmail.com  
-Discord: laura2936  
-LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226  
+- Stevens Email: lobermai@stevens.edu  
+- General Email: lauraaobermaier@gmail.com  
+- Discord: laura2936  
+- LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226  
 ___
