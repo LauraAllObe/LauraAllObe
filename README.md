@@ -85,14 +85,14 @@ ___
 <table align="center" valign="center">
     <tr>
         <td valign="center" width="=500" height="200">
-            &emsp;&emsp;🪜 How to reach me~~<br>
-            &emsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ Stevens Email: lobermai@stevens.edu<br>
-            &emsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ General Email: lauraaobermaier@gmail.com<br>
-            &emsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ Discord: laura2936<br>
-            &emsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226&emsp;&emsp;
+            &emsp;🪜 How to reach me~~<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;➥ Stevens Email: lobermai@stevens.edu<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;➥ General Email: lauraaobermaier@gmail.com<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;➥ Discord: laura2936<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;➥ LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226&emsp;
         </td>
         <td align="center" valign="center">
-            &emsp;&emsp;<img height="150" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/spinning_tuxedo_cat.gif">&emsp;&emsp;
+            &emsp;<img height="150" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/spinning_tuxedo_cat.gif">&emsp;
         </td>
     </tr>
 </table>  
