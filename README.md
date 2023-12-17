@@ -82,9 +82,18 @@ MAUI,
 from GitLab). My best team projects can be found in the finalProject (Java), proFessUp (JavaScript), and fat32filesystem (C).
 ___
 ## Contact Information:
-🪜 How to reach me~~  
-- Stevens Email: lobermai@stevens.edu  
-- General Email: lauraaobermaier@gmail.com  
-- Discord: laura2936  
-- LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226  
+<table align="center" valign="center">
+    <tr>
+        <td valign="center" width="=500" height="200">
+            🪜 How to reach me~~<br>
+            - Stevens Email: lobermai@stevens.edu<br>
+            - General Email: lauraaobermaier@gmail.com<br>
+            - Discord: laura2936<br>
+            - LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226<br>        
+        </td>
+        <td align="center" valign="center">
+            <img height="150" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/spinning_tuxedo_cat.gif">
+        </td>
+    </tr>
+</table>
 ___
