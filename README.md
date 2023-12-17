@@ -1,6 +1,6 @@
 <div align="center" valign="center"><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/welcomeMessage.gif" height="40" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /></div>  
 &nbsp;
-<div align="center" valign="center" ><a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a></div>
+<div align="center" valign="center" ><a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a></div><hr/>
 
 ## Introduction
 🐌 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Mastsers  
@@ -94,4 +94,4 @@ ___
             &emsp;<img height="150" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/spinning_tuxedo_cat.gif">&emsp;
         </td>
     </tr>
-</table>  
+</table>  <hr/>
