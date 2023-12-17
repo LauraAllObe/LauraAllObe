@@ -85,14 +85,14 @@ ___
 <table align="center" valign="center">
     <tr>
         <td valign="center" width="=500" height="200">
-            🪜 How to reach me~~<br>
-            - Stevens Email: lobermai@stevens.edu<br>
-            - General Email: lauraaobermaier@gmail.com<br>
-            - Discord: laura2936<br>
-            - LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226<br>        
+            &emsp;&emsp;&emsp;🪜 How to reach me~~<br>
+            &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ Stevens Email: lobermai@stevens.edu<br>
+            &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ General Email: lauraaobermaier@gmail.com<br>
+            &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ Discord: laura2936<br>
+            &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226&emsp;&emsp;&emsp;
         </td>
         <td align="center" valign="center">
-            <img height="150" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/spinning_tuxedo_cat.gif">
+            &emsp;&emsp;&emsp;<img height="150" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/spinning_tuxedo_cat.gif">&emsp;&emsp;&emsp;
         </td>
     </tr>
 </table>
