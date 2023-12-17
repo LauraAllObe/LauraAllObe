@@ -95,5 +95,4 @@ ___
             &emsp;&emsp;<img height="150" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/spinning_tuxedo_cat.gif">&emsp;&emsp;
         </td>
     </tr>
-</table>
-___
+</table>  
