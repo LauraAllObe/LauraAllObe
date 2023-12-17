@@ -1,5 +1,7 @@
 # <h1 align="center" valign="center"><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/welcomeMessage.gif" height="40" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /></h1>
 
+<a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a>
+
 ## Introduction
 🐌 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
 Bachelors of Science in Computer Science and am pursuing my Masters in Software Engineering. With a 3.9 GPA and only 
@@ -78,8 +80,6 @@ MAUI,
 
 🦫 My best individual projects can be found in the Summer2022Proj0 (C#) and hackerNews (Python) (future python repo to move 
 from GitLab). My best team projects can be found in the finalProject (Java), proFessUp (JavaScript), and fat32filesystem (C).
-
-🪶 I’m looking to collaborate on ... (nothing to note here so far)
 ___
 ## Contact Information:
 🪜 How to reach me~~  
