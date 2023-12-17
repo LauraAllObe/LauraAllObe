@@ -1,6 +1,6 @@
-# <h1 align="center" valign="center"><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/welcomeMessage.gif" height="40" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /></h1>
-
-<a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a>
+<div align="center" valign="center"><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/welcomeMessage.gif" height="40" /><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" /></div>  
+&nbsp;
+<div align="center" valign="center" ><a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a></div>
 
 ## Introduction
 🐌 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
