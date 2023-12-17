@@ -87,7 +87,6 @@ ___
         <td valign="center" width="=500" height="200">
             &emsp;🪜 How to reach me~~<br>
             &nbsp;&nbsp;&nbsp;&nbsp;➥ Stevens Email: lobermai@stevens.edu<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;➥ General Email: lauraaobermaier@gmail.com<br>
             &nbsp;&nbsp;&nbsp;&nbsp;➥ Discord: laura2936<br>
             &nbsp;&nbsp;&nbsp;&nbsp;➥ LinkedIn: https://www.linkedin.com/in/laura-obermaier-977472226&emsp;
         </td>
