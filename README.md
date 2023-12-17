@@ -3,7 +3,7 @@
 <div align="center" valign="center" ><a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a></div>
 
 ## Introduction
-🐌 Hi, I’m @LauraAllObe. __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Mastsers student, I've earned my 
+🐌 Hi, I’m Laura Obermaier. __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Mastsers student, I've earned my 
 __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__. With a __3.9 GPA__ and only 
 __2.5 years to earn my Bachelors__ (note only 7 entrance credits) as an __honors student__, graduating before I turned 21 has been
 one of my greatest achievements so far. My goal is to stay in __Software Engineering__ until I have a good grasp of project 
