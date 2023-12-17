@@ -3,14 +3,14 @@
 <div align="center" valign="center" ><a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a></div>
 
 ## Introduction
-🐌 Hi, I’m @LauraAllObe. FSU Alumni and current Stevens Institute of Technology (SIT) Mastsers student, I've earned my 
-Bachelors of Science in Computer Science and am pursuing my Masters in Software Engineering. With a 3.9 GPA and only 
-2.5 years to earn my Masters (note only 7 entrance credits) as an honors student, graduating before I turned 21 has been
-one of my greatest achievements so far. My goal is to stay in software engineering until I have a good grasp of project 
-flow (a minimum of two years full-time employment), after which I'd like to approach the field of Software Architecture.
+🐌 Hi, I’m @LauraAllObe. __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Mastsers student, I've earned my 
+__Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__. With a __3.9 GPA__ and only 
+__2.5 years to earn my Bachelors__ (note only 7 entrance credits) as an __honors student__, graduating before I turned 21 has been
+one of my greatest achievements so far. My goal is to stay in __Software Engineering__ until I have a good grasp of project 
+flow (a minimum of two years full-time employment), after which I'd like to approach the field of __Software Architecture__.
 
 🎻 I’m interested in Software Engineering, Software Architecture, Artificial Intelligence, and Web and Mobile Application
-Development. Currently, I am seeking a part-time or paid internship position remotely or in-person in the Hoboken, 
+Development. Currently, I am __seeking a part-time or paid internship__ position remote or in-person in the Hoboken, 
 New Jersey area. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
 ___
@@ -18,9 +18,9 @@ ___
 🧸 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
 anime. Plants and tayloring have also been recent interests of mine. 
 
-🍯 In terms of character, my most pronounced characteristics are my organization, dedication, focus, calm, and humanity;
-but also my stubbornness and social illiteracy. I put both my strengths and weaknesses here as I believe everyone to have
-them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.
+🍯 In terms of character, my most pronounced characteristics are my *time management*, *dedication*, *focus*, *calm*, and  *humanity*; 
+but also my *stubbornness* and *social illiteracy*. I put both my strengths and weaknesses here as I believe everyone to have 
+them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.  
 ___
 ## My Stats:
 <h1  align="center" valign="center"><img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=faf4e8&icon_color=faf4e8&show_icons=true&card_width=400" href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,19 +28,19 @@ ___
 
 ___
 ## A Brief Overview on All Repositories:
-**[/finalProject:](https://github.com/LauraAllObe/finalProject)** full-stack sticky note (android) mobile application, implementation in java (group)  
+**[/finalProject:](https://github.com/LauraAllObe/finalProject)** full-stack sticky note (android) mobile application, implementation in Java (group)  
 **[/Summer2022Proj0:](https://github.com/LauraAllObe/Summer2022Proj0)** full-stack PracticePanther (Law Practice Management Software) implementation in C# (individual)  
 **[/shell:](https://github.com/LauraAllObe/shell)** a minimal shell implementation in C (group)  
 **[/elevatorKernelModule:](https://github.com/LauraAllObe/elevatorKernelModule)** an elevator kernel module implementation in C (group)  
 **[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat32 file system implementation in C (group)  
 **[/hackerNews:](https://github.com/LauraAllObe/hackerNews)** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
-**[/proFessUp:](https://github.com/LauraAllObe/proFessUp)** full-stack rateMyProfessor implementation in JavaScript (group)  
+**[/proFessUp:](https://github.com/LauraAllObe/proFessUp)** full-stack rateMyProfessor implementation in Javascript (group)  
 ###### *Note: most group projects were cloned from another directory or repository upon completion*
 ___ 
 ## About My Repositories and Programming Experience:
 🐻 I’m currently working refining my skills (semester break).
 
-💼 My langauges include
+💼 My __langauges__ include
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>(C), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>(C++), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/csharp.svg"></code>(C#), 
@@ -53,7 +53,7 @@ ___
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>(CSS), 
 Assembly, and 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>(Sublime Text).  
-💼 My technologies and tools include 
+💼 My __technologies and tools__ include 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>(Linux), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg"></code>(Ubuntu), 
@@ -78,8 +78,8 @@ MAUI,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>(Microsoft Azure), and
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda).
 
-🦫 My best individual projects can be found in the Summer2022Proj0 (C#) and hackerNews (Python) (future python repo to move 
-from GitLab). My best team projects can be found in the finalProject (Java), proFessUp (JavaScript), and fat32filesystem (C).
+🦫 My __best individual projects__ can be found in the Summer2022Proj0 (C#) and hackerNews (Python) (future python repo to move 
+from GitLab). My __best team projects__ can be found in the finalProject (Java), proFessUp (JavaScript), and fat32filesystem (C).
 ___
 ## Contact Information:
 <table align="center" valign="center">
