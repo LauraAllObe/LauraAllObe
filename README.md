@@ -78,8 +78,7 @@ MAUI,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>(Microsoft Azure), and
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda).
 
-🦫 My __best individual projects__ can be found in the Summer2022Proj0 (C#) and hackerNews (Python) (future python repo to move 
-from GitLab). My __best team projects__ can be found in the finalProject (Java), proFessUp (JavaScript), and fat32filesystem (C).
+🦫 My __best individual projects__ can be found in the Summer2022Proj0 (C#) and hackerNews (Python). My __best team projects__ can be found in the finalProject (Java), proFessUp (JavaScript), and fat32filesystem (C).
 ___
 ## Contact Information:
 <table align="center" valign="center">
