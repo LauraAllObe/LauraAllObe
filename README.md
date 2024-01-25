@@ -38,7 +38,7 @@ ___
 ###### *Note: most group projects were cloned from another directory or repository upon completion*
 ___ 
 ## About My Repositories and Programming Experience:
-🐻 I’m currently working refining my skills (semester break).
+🐻 I’m currently working refining my skills, earning my masters, and job searching.
 
 💼 My __langauges__ include
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>(C), 
