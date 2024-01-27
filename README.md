@@ -80,7 +80,7 @@ MAUI,
 
 🦫 My __best individual projects__ can be found in the Summer2022Proj0 (C#) and hackerNews (Python). My __best team projects__ can be found in the finalProject (Java), proFessUp (JavaScript), and fat32filesystem (C).
 ___
-<div align="center" valign="center"><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/contactInfo.gif"/></div>  
+<div align="center" valign="center"><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/contactInfo.gif" href="https://www.linkedin.com/in/laura-obermaier-977472226"/></div>  
 
 <h1  align="center" valign="center"><img src="https://readme-jokes.vercel.app/api?bgColor=%23e6ddd8&borderColor=%23997967&qColor=%23ab8c7b&aColor=%23997967" alt="Jokes Card" width="300" height="180"/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="450" height="180"/></h1>
