@@ -18,8 +18,8 @@ ___
 🧸 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
 anime. Plants and tayloring have also been recent interests of mine. 
 
-🍯 In terms of character, my most pronounced characteristics are my *time management*, *dedication*, *focus*, *calm*, and  *humanity*; 
-but also my *stubbornness* and *social illiteracy*. I put both my strengths and weaknesses here as I believe everyone to have 
+🍯 In terms of character, my most pronounced characteristics are my *time management*, *dedication*, *focus*, and *calm*; 
+but also my *stubbornness* and *introversion*. I put both my strengths and weaknesses here as I believe everyone to have 
 them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.  
 ___
 ## My Stats:
