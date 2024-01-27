@@ -95,6 +95,6 @@ ___
     </tr>
 </table>
 
-<h1  align="center" valign="center"><img src="https://readme-jokes.vercel.app/api?bgColor=%23e6ddd8&borderColor=%23997967&qColor=%23ab8c7b&aColor=%23997967" alt="Jokes Card" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/></h1>
+<h1  align="center" valign="center"><img src="https://readme-jokes.vercel.app/api?bgColor=%23e6ddd8&borderColor=%23997967&qColor=%23ab8c7b&aColor=%23997967" alt="Jokes Card" width="300" height="180"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="450" height="180"/></h1>
 
