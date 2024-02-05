@@ -18,6 +18,11 @@ ___
 🧸 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
 anime. Plants and tayloring have also been recent interests of mine. 
 
+🦬 As for my background, I am fluent in both German and English and have spent over 6 years studying French. My formative 
+years were spent in three different countries: Germany, China, and the United States. Moving to Beijing, China for family 
+reasons a the age of 9, then to Florida, United States at 13, and finally to New York, United States at 20, I consider 
+myself to have gained open-mindedness and an appreciation for different cultures during this time.
+
 🍯 In terms of character, my most pronounced characteristics are my *time management*, *dedication*, *focus*, and *calm*; 
 but also my *stubbornness* and *introversion*. I put both my strengths and weaknesses here as I believe everyone to have 
 them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.  
