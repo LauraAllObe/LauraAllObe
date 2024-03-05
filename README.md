@@ -56,7 +56,8 @@ ___
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg"></code>(Bash), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>(HTML), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>(CSS), 
-Assembly, and 
+Assembly, 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/markdown.svg"></code>(Markdown), and 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>(Sublime Text).  
 💼 My __technologies and tools__ include 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
