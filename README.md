@@ -10,7 +10,7 @@ I turned 21 has been one of my greatest achievements so far. My goal is to stay 
 grasp of project flow (a minimum of two years full-time employment), after which I'd like to approach the field of __Software Architecture__.
 
 🎻 I’m interested in Software Engineering, Software Architecture, Artificial Intelligence, and Web and Mobile Application
-Development. Currently, I am __seeking a part-time or paid internship__ position remote or in-person in the Hoboken, 
+Development. Currently, I am __seeking a part-time or internship__ position remote or in-person in the Hoboken, 
 New Jersey area. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
 ___
