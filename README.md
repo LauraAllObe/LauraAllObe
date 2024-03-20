@@ -10,7 +10,7 @@
 5. [About My Repositories and Programming Experience](https://github.com/LauraAllObe#about-my-repositories-and-programming-experience)
 6. [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and)
 7. [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
-
+___
 ## Introduction
 🐌 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
 student, I've earned my __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__. With a 
