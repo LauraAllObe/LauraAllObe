@@ -27,7 +27,7 @@ but also my *stubbornness* and *introversion*. I put both my strengths and weakn
 them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.  
 ___
 ## My Stats:
-<h1  align="center" valign="center">
+<div  align="center" valign="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="180" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&langs_count=5&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&card_width=560vw" href="https://github.com/anuraghazra/github-readme-stats" height="180">
   <div>
@@ -35,7 +35,7 @@ ___
     <img src="https://leetcard.jacoblin.cool/lauraallobe?ext=heatmap&theme=forest" href="https://github.com/JacobLinCool/LeetCode-Stats-Card" height="180"/>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="180"/>
   </div>
-</h1>
+</div>
 
 ___
 ## A Brief Overview on All Repositories:
