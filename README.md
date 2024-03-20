@@ -55,7 +55,8 @@ ___
 **[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat32 file system implementation in C (group)  
 **[/hackerNews:](https://github.com/LauraAllObe/hackerNews)** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
 **[/proFessUp:](https://github.com/LauraAllObe/proFessUp)** full-stack rateMyProfessor implementation in Javascript (group)  
-###### *Note: most group projects were cloned from another directory or repository upon completion*
+
+__*Note: most group projects were cloned from another directory or repository upon completion*__
 ___ 
 ## About My Repositories and Programming Experience:
 🐻 I’m currently working refining my skills, earning my masters, and job searching.
