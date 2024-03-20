@@ -27,8 +27,8 @@ but also my *stubbornness* and *introversion*. I put both my strengths and weakn
 them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.  
 ___
 ## My Stats:
-<h1  align="center" valign="center"><img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true&card_width=380" href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&langs_count=5&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&card_width=560vw" href="https://github.com/anuraghazra/github-readme-stats" height="195"><img src="https://leetcard.jacoblin.cool/lauraallobe?ext=heatmap&theme=forest" href="https://github.com/JacobLinCool/LeetCode-Stats-Card" height="200"/><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/writing.gif" height="200"/></h1>
+<h1  align="center" valign="center"><img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="190" href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&langs_count=5&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&card_width=560vw" href="https://github.com/anuraghazra/github-readme-stats" height="190"><img src="https://leetcard.jacoblin.cool/lauraallobe?ext=heatmap&theme=forest" href="https://github.com/JacobLinCool/LeetCode-Stats-Card" height="190"/><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/writing.gif" height="190"/></h1>
 
 ___
 ## A Brief Overview on All Repositories:
@@ -87,7 +87,7 @@ MAUI,
 ___
 
 <div  align="center" valign="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="450" height="180"/></div>
-<div align="center" valign="center"><h2 align="left">Goodbye, and...</h2><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/catClosingDoor.gif" align="left" height="180"/><img src="https://readme-jokes.vercel.app/api?bgColor=%23e6ddd8&borderColor=%23997967&qColor=%23ab8c7b&aColor=%23997967&textColor=%23997967&codeColor=%23997967" alt="Jokes Card" align="center" width="300" height="180"/><img align="right" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/thankYouCat.gif" height="180"/><h2 align="right">THANK YOU!!</h2></div>
+<div align="center" valign="center"><h2 align="left">Goodbye, and...</h2><img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/catClosingDoor.gif" align="left" height="175"/><img src="https://readme-jokes.vercel.app/api?bgColor=%23e6ddd8&borderColor=%23997967&qColor=%23ab8c7b&aColor=%23997967&textColor=%23997967&codeColor=%23997967" alt="Jokes Card" align="center" width="300" height="180"/><img align="right" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/thankYouCat.gif" height="175"/><h2 align="right">THANK YOU!!</h2></div>
 
 
 <!--START_SECTION:waka-->
