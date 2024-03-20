@@ -2,6 +2,15 @@
 &nbsp;
 <div align="center" valign="center" ><a href="https://hits.sh/github.com/LauraAllObe/hits/"><img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/></a></div><hr/>
 
+## Table of Contents:  
+1. [Introduction](https://github.com/LauraAllObe#introduction)  
+2. [A Little More About Me](https://github.com/LauraAllObe#a-little-more-about-me)  
+3. [My Stats](https://github.com/LauraAllObe#my-stats)  
+4. [A Brief Overview on All Repositories](https://github.com/LauraAllObe#a-brief-overview-on-all-repositories)  
+5. [About My Repositories and Programming Experience](https://github.com/LauraAllObe#about-my-repositories-and-programming-experience)
+6. [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and)
+7. [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
+
 ## Introduction
 🐌 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
 student, I've earned my __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__. With a 
