@@ -41,7 +41,7 @@ reasons a the age of 9, then to Florida, United States at 13, and finally to New
 myself to have gained open-mindedness and an appreciation for different cultures during this time.
 
 🍯 In terms of character, my most pronounced characteristics are my *time management*, *dedication*, *focus*, and *calm*; 
-but also my *stubbornness* and *introversion*. I put both my strengths and weaknesses here as I believe everyone to have 
+but also my *introversion*. I put both my strengths and weaknesses here as I believe everyone to have 
 them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.  
 ___
 ## My Stats:
