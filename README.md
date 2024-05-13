@@ -57,8 +57,8 @@ ___
 
 ___
 ## A Brief Overview on All Repositories:
-**[/finalProject:](https://github.com/LauraAllObe/finalProject)** full-stack sticky note (android) mobile application, implementation in Java (group)  
-**[/Summer2022Proj0:](https://github.com/LauraAllObe/Summer2022Proj0)** full-stack PracticePanther (Law Practice Management Software) implementation in C# (individual)  
+**[/myNotes:](https://github.com/LauraAllObe/myNotes)** full-stack sticky note (android) mobile application, implementation in Java (group)  
+**[/practicePanther:](https://github.com/LauraAllObe/practicePanther)** full-stack PracticePanther (Law Practice Management Software) implementation in C# (individual)  
 **[/shell:](https://github.com/LauraAllObe/shell)** a minimal shell implementation in C (group)  
 **[/elevatorKernelModule:](https://github.com/LauraAllObe/elevatorKernelModule)** an elevator kernel module implementation in C (group)  
 **[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat32 file system implementation in C (group)  
