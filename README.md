@@ -67,7 +67,7 @@ ___
 **[/proFessUp:](https://github.com/LauraAllObe/proFessUp)** full-stack rateMyProfessor implementation in Javascript (group)  
 **[/shell:](https://github.com/LauraAllObe/shell)** a minimal shell implementation in C (group)  
 
-__*Note: most group projects were cloned from another directory or repository upon completion*__
+__*Note: some group projects were cloned from another directory or repository upon completion*__
 ___ 
 ## About My Repositories and Programming Experience:
 🐻 I’m currently working refining my skills, earning my masters, and job searching.
