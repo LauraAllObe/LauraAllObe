@@ -26,8 +26,7 @@ student, I've earned my __Bachelors of Science in Computer Science__ and am purs
 __3.9 GPA__ and only __2.5 years to earn my Bachelors__ (note only 7 entrance credits) as an __honors student__, graduating before 
 I turned 21 has been one of my greatest achievements so far. My goal is to specialize in __Cybersecurity__ and __Machine Learning__ within Software Development.
 
-🎻 I’m interested in Software Engineering, Cyber Security, Artificial Intelligence, and Web and Mobile Application
-Development. Currently, I am __seeking a part-time or internship__ position remote or in-person in the Hudson county. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
+🎻 I’m interested in Software Engineering, Cybersecurity, and Artificial Intelligence. Currently, I am __seeking a part-time or internship__ position remote or in-person in the Hudson county for Summer 2025. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
 ___
 ## A Little More About Me:
