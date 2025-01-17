@@ -22,9 +22,9 @@
 ___
 ## Introduction
 🐌 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
-student, I've earned my __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Cybersecurity__ with a __Graduate Certificate in Machine Learning__. With a 
+student, I've earned my __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__ with two __Graduate Certificates__, in __Machine Learning__ and __Cyber Security__. With a 
 __3.9 GPA__ and only __2.5 years to earn my Bachelors__ (note only 7 entrance credits) as an __honors student__, graduating before 
-I turned 21 has been one of my greatest achievements so far. My goal is to specialize in __Cybersecurity__ and __Machine Learning__ within Software Development.
+I turned 21 has been one of my greatest achievements so far. My goal is to utilize my knowledge of __Cybersecurity__ and __Machine Learning__ within Software Engineering.
 
 🎻 I’m interested in Software Engineering, Cybersecurity, and Artificial Intelligence. Currently, I am __seeking a part-time or internship__ position remote or in-person in the Hudson county for Summer 2025. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
