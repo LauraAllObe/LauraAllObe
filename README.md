@@ -114,9 +114,6 @@ Gunicorn,
 🦫 My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2)](https://git.io/typing-svg) __best individual projects__ can be found in the practicePanther (C#) and hackerNews (Python). My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg)filesystem (C).
 ___
 
-<div  align="center" valign="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="450" height="180"/>
-</div>
 <div align="center">
   <h2 align="left">Goodbye, and...</h2>
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/catClosingDoor.gif" align="left" height="180"/>
