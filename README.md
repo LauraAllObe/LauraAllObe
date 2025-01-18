@@ -70,7 +70,7 @@ ___
 ## About My Repositories and Programming Experience:
 🐻 I’m currently working refining my skills, earning my masters, and job searching.
 
-💼 My __programming langauges__ include
+💼 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=14%2B)](https://git.io/typing-svg) __programming langauges__, including
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>(C), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>(C++), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/csharp.svg"></code>(C#), 
@@ -78,6 +78,7 @@ ___
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>(Javascript), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>(Java), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>(MySQL), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sqlite.svg"></code>(SQLite), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg"></code>(Bash), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>(HTML), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>(CSS), 
@@ -85,12 +86,12 @@ MIPS Assembly,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/markdown.svg"></code>(Markdown), and 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>(Sublime Text).  
 
-💼 My __technologies and tools__ include 
+💼 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=23%2B)](https://git.io/typing-svg) __technologies and tools__, including 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>(Linux), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg"></code>(Ubuntu), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"></code>(Windows), 
-<code><img height="12" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>(Flask), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"></code>(Flask), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>(React), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>(Node.js), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/npm.svg"></code>(NPM), 
@@ -101,18 +102,16 @@ Gunicorn,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudio.svg"></code>(Visual Studio), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>(VSCode), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>(Git), 
-<code><img height="12" src=""></code>(GitHub), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></code>(GitHub), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/openai.svg"></code>(OpenAI), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sqlite.svg"></code>(SQLite), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dot-net.svg"></code>(.NET), 
-MAUI, 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dot-net.svg"></code>(.NET MAUI), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>(Jupyter Notebook), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/virtualbox.svg"></code>(Virtual Box), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linode.svg"></code>(Linode), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>(Microsoft Azure), and
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda).
 
-🦫 My __best individual projects__ can be found in the practicePanther (C#) and hackerNews (Python). My __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg)filesystem (C).
+🦫 My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2)](https://git.io/typing-svg) __best individual projects__ can be found in the practicePanther (C#) and hackerNews (Python). My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg)filesystem (C).
 ___
 
 <div  align="center" valign="center">
