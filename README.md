@@ -21,16 +21,18 @@
 7. [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
 ___
 ## Introduction
-🐌 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
-student, I've earned my __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__ with two __Graduate Certificates__, in __Machine Learning__ and __Cyber Security__. With a 
-__[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA__ and only __[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=2.5)](https://git.io/typing-svg) years to earn my Bachelors__ (note only [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=7)](https://git.io/typing-svg) entrance credits) as an __honors student__, graduating before 
+🐎 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
+student, I've earned my __Bachelors of Science in Computer Science__ and am pursuing my __Masters in Software Engineering__ with two __Graduate Certificates__, in __Machine Learning__ and __Cyber Security__. 
+
+🫘 With a 
+__[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA__ and only __[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=2.5)](https://git.io/typing-svg) years to earn my Bachelors__ (note only [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=7)](https://git.io/typing-svg) entrance credits) as an __honors student__ making the presidents list [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=4)](https://git.io/typing-svg) times and dean's list [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=7)](https://git.io/typing-svg) times, graduating before 
 I turned [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=21)](https://git.io/typing-svg) has been one of my greatest achievements so far. Currently, I hold a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA and will be a course assistant for the upcoming Spring [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg) semester. My goal is to utilize my knowledge of __Cybersecurity__ and __Machine Learning__ within Software Engineering.
 
 🎻 I’m interested in Software Engineering, Cybersecurity, and Artificial Intelligence. Currently, I am __seeking a part-time or internship__ position remote or in-person in the Hudson county for Summer [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg). I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
 ___
 ## A Little More About Me:
-🧸 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
+👞 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
 anime. Plants and tailoring have also been recent interests of mine. 
 
 🦬 As for my background, I am fluent in both German and English and have spent over [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=6)](https://git.io/typing-svg) years studying French. My formative 
@@ -86,7 +88,7 @@ MIPS Assembly,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/markdown.svg"></code>(Markdown), and 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>(Sublime Text).  
 
-💼 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=23%2B)](https://git.io/typing-svg) __technologies and tools__, including 
+🪑 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=23%2B)](https://git.io/typing-svg) __technologies and tools__, including 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>(Linux), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg"></code>(Ubuntu), 
