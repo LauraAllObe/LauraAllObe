@@ -56,7 +56,7 @@ ___
 ___
 ## A Brief Overview on All Repositories:
 **[/elevatorKernelModule:](https://github.com/LauraAllObe/elevatorKernelModule)** an elevator kernel module implementation in C (group)  
-**[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat32 file system implementation in C (group)  
+**[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg) file system implementation in C (group)  
 **[/hackerNews:](https://github.com/LauraAllObe/hackerNews)** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
 **[machineLearningProject:](https://github.com/LauraAllObe/machineLearningProject)** machine learning using combined models implemented in Python (group)  
 **[/myNotes:](https://github.com/LauraAllObe/myNotes)** full-stack sticky note (android) mobile application, implementation in Java (group)  
@@ -112,7 +112,7 @@ MAUI,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>(Microsoft Azure), and
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda).
 
-🦫 My __best individual projects__ can be found in the Summer2022Proj0 (C#) and hackerNews (Python). My __best team projects__ can be found in the finalProject (Java), proFessUp (JavaScript), and fat32filesystem (C).
+🦫 My __best individual projects__ can be found in the practicePanther (C#) and hackerNews (Python). My __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg)filesystem (C).
 ___
 
 <div  align="center" valign="center">
