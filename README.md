@@ -1,6 +1,6 @@
 <div align="center" valign="center">
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
-  <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/welcomeMessage.gif" height="40" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=714542BB&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Laura's+GitHub!" alt="Typing SVG" /></a>
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
 </div>  
 &nbsp;
