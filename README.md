@@ -26,9 +26,9 @@ student, I've earned my __Bachelors of Science in Computer Science__ while under
 
 🫘 With a 
 __[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA__ and only __[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=2.5)](https://git.io/typing-svg) years to earn my Bachelors__ (note only [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=7)](https://git.io/typing-svg) entrance credits) as an __honors student__ making the presidents list [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=4)](https://git.io/typing-svg) times and dean's list [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=7)](https://git.io/typing-svg) times, graduating before 
-I turned [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=21)](https://git.io/typing-svg) has been one of my greatest achievements so far. Currently, I hold a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA and will be a course assistant for the upcoming Spring [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg) semester.
+I turned [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=21)](https://git.io/typing-svg) has been one of my greatest achievements so far. I was honored to be a Course Assistant for Dr. Reza Peyrovian this Spring [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg), working [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=5-20)](https://git.io/typing-svg) hours per week during full-time study. Currently, I hold a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA and am undertaking a Summer [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg) full-stack developer internship with NutriverseAI.
 
-🎻 I’m interested in Software Engineering, Cybersecurity, and Machine Learning (especially Natural Language Processing). Currently, I am __seeking an internship__ position remote or in-person in the NYC area for Summer [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg). I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
+🎻 I’m interested in Software Engineering, Cybersecurity, and Machine Learning (especially Natural Language Processing). I am __seeking a full-time position__ remote or in-person in the NYC area for Spring [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026)](https://git.io/typing-svg). I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
 ___
 ## A Little More About Me:
@@ -57,6 +57,7 @@ ___
 
 ___
 ## A Brief Overview on All Repositories:
+**[/nutritionAnalyzer:](https://github.com/LauraAllObe/nutritionAnalyzer)** NLP-driven ingredient health effect summaries in Jupyter Notebook (individual)  
 **[/elevatorKernelModule:](https://github.com/LauraAllObe/elevatorKernelModule)** an elevator kernel module implementation in C (group)  
 **[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg) file system implementation in C (group)  
 **[/hackerNews:](https://github.com/LauraAllObe/hackerNews)** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
@@ -72,7 +73,7 @@ ___
 ## About My Repositories and Programming Experience:
 🐻 I’m currently working refining my skills, earning my masters, and job searching.
 
-💼 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=14%2B)](https://git.io/typing-svg) __programming langauges__, including
+💼 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=16%2B)](https://git.io/typing-svg) __programming langauges__, including
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>(C), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>(C++), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/csharp.svg"></code>(C#), 
@@ -80,21 +81,24 @@ ___
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>(Javascript), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>(Java), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>(MySQL), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/json.svg"></code>(JSON), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sqlite.svg"></code>(SQLite), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg"></code>(Bash), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>(HTML), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>(CSS), 
 MIPS Assembly, 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/latex.svg"></code>(LaTeX), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/markdown.svg"></code>(Markdown), and 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>(Sublime Text).  
 
-🪑 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=23%2B)](https://git.io/typing-svg) __technologies and tools__, including 
+🪑 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=27%2B)](https://git.io/typing-svg) __technologies and tools__, including 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>(Linux), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg"></code>(Ubuntu), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"></code>(Windows), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"></code>(Flask), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>(React), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/auth0.svg"></code>(Auth0), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>(Node.js), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/npm.svg"></code>(NPM), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nginx.svg"></code>(Nginx), 
@@ -105,15 +109,18 @@ Gunicorn,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>(VSCode), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>(Git), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></code>(GitHub), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg"></code>(Docker),
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/openai.svg"></code>(OpenAI), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dot-net.svg"></code>(.NET MAUI), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>(Jupyter Notebook), 
+Visual Paradigm, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/virtualbox.svg"></code>(Virtual Box), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linode.svg"></code>(Linode), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>(Microsoft Azure), and
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda).
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>(Microsoft Azure),
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda), and
+Hugging Face Transformers.
 
-🦫 My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2)](https://git.io/typing-svg) __best individual projects__ can be found in the practicePanther (C#) and hackerNews (Python). My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg)filesystem (C).
+🦫 My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best individual projects__ can be found in the nutritionAnalyzer (Jupyter Notebook), practicePanther (C#), and hackerNews (Python) repositories. My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg)filesystem (C) repositories.
 ___
 
 <div align="center">
