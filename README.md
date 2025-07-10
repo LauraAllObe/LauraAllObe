@@ -132,5 +132,4 @@ ___
 </div>
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![stats](https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&components=10&component1=type%3Dbasic&component2=type%3Dheatmap&component3=type%3Dweekly&component4=type%3Dweekly_projs&component5=type%3Dweekly_langs&component6=type%3Dweekly_avg&component7=type%3Dall_langs&component8=type%3Dall_projs&component9=type%3Dspedometer&component10=type%3Drank&scale=true)
