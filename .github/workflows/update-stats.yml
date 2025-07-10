@@ -1,0 +1,26 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Runs daily at 6:00 UTC
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download WakaTime Stats SVG
+        run: |
+          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&components=10&component1=type%3Dbasic&component2=type%3Dheatmap&component3=type%3Dweekly&component4=type%3Dweekly_projs&component5=type%3Dweekly_langs&component6=type%3Dweekly_avg&component7=type%3Dall_langs&component8=type%3Dall_projs&component9=type%3Dspedometer&component10=type%3Drank&scale=true" -o stats.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add stats.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update stats.svg"
+          git push
