@@ -120,7 +120,7 @@ ___
   </div>
   <div>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/work.gif" height="410"/>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/stats.svg" height="410"/>
+    <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&components=3&title_prefix=Laura%27s&bg_color=e6ddd8&title_color=fcf9f2&text_color=997967&logo_color=fcf9f2&border_color=ab8c7b&border_width=2&border_radius=10&component1_type=weekly_avg&component1_chart_type=radar&component1_chart_color=fcf9f2&component1_start_day=mo&component1_y_axis=true&component1_y_axis_label=true&component1_hide_legend=true&component1_hide_total=true&component2_type=basic&component3_type=heatmap&component3_start_day=mo&component3_heatmap_color=fcf9f2" height="410"/>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/workHome.gif" height="410"/>
   </div>
 </div>
