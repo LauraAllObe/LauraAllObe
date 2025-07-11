@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '31 21 * * *'  # Runs daily at 23:55 UTC
+    - cron: '36 21 * * *'  # Runs daily at 23:55 UTC
   workflow_dispatch:      # Allows manual trigger
 
 jobs:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: main
 
       - name: Download WakaTime Stats SVG
         run: |
