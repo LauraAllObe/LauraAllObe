@@ -119,7 +119,7 @@ ___
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="160"/>
   </div>
   <div>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/cafe.gif" height="300"/>
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/work.gif" height="300"/>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/stats.svg" width="400"/>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/desk.gif" height="300"/>
   </div>
