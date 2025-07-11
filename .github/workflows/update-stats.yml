@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '36 21 * * *'  # Runs daily at 23:55 UTC
+    - cron: '37 21 * * *'  # Runs daily at 23:55 UTC
   workflow_dispatch:      # Allows manual trigger
 
 jobs:
