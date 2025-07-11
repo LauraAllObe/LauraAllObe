@@ -113,14 +113,13 @@ Hugging Face Transformers.
 ___
 ## My Stats:
 <div  align="center" valign="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="180" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&langs_count=8&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&card_width=560vw" href="https://github.com/anuraghazra/github-readme-stats" height="180">
   <div>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatProfessional.gif" height="275"/>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="275"/>
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatProfessional.gif" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="160" href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="160"/>
   </div>
   <div>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/stats.svg" width="680"/>
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/stats.svg" width="790"/>
   </div>
 </div>
 
