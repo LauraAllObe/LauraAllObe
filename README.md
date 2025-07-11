@@ -43,17 +43,6 @@ myself to have gained open-mindedness and an appreciation for different cultures
 🍯 In terms of character, my most pronounced characteristics are my *time management*, *dedication*, *focus*, and *calm*; 
 but also my *introversion*. I put both my strengths and weaknesses here as I believe everyone to have 
 them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.  
-___
-## My Stats:
-<div  align="center" valign="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="180" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&langs_count=8&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&card_width=560vw" href="https://github.com/anuraghazra/github-readme-stats" height="180">
-  <div>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatProfessional.gif" height="180"/>
-    <img src="https://leetcard.jacoblin.cool/lauraallobe?ext=heatmap&theme=forest" href="https://github.com/JacobLinCool/LeetCode-Stats-Card" height="180"/>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="180"/>
-  </div>
-</div>
 
 ___
 ## A Brief Overview on All Repositories:
@@ -122,6 +111,21 @@ Hugging Face Transformers.
 
 🦫 My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best individual projects__ can be found in the nutritionAnalyzer (Jupyter Notebook), practicePanther (C#), and hackerNews (Python) repositories. My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg)filesystem (C) repositories.
 ___
+## My Stats:
+<div  align="center" valign="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="180" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraAllObe&langs_count=8&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&card_width=560vw" href="https://github.com/anuraghazra/github-readme-stats" height="180">
+  <div>
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatProfessional.gif" height="275"/>
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="275"/>
+  </div>
+  <div>
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/stats.svg" width="680"/>
+  </div>
+</div>
+
+___
+
 
 <div align="center">
   <h2 align="left">Goodbye, and...</h2>
@@ -130,5 +134,3 @@ ___
   <img align="right" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/thankYouCatCube.gif" height="180"/>
   <h2 align="right">THANK YOU!!</h2>
 </div>
-
-<img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/stats.svg" align="center" width="500"/>
