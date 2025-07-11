@@ -131,5 +131,4 @@ ___
   <h2 align="right">THANK YOU!!</h2>
 </div>
 
-
-![My WakaTime Stats](./stats.svg)
+<img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/stats.svg" align="center" width="500"/>
