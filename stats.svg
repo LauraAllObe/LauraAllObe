@@ -1,10 +1,10 @@
 
-<svg width="696" height="689.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="696" height="699.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="1"
     y="1"
     width="694"
-    height="687.5"
+    height="697.5"
     fill="#e6ddd8"
     stroke="#ab8c7b"
     stroke-width="2"
@@ -14,11 +14,11 @@
   
     <g transform="translate(20, 20) scale(1.2925714285714287)">
       <g transform="scale(0.075)" style="color:#fcf9f2"><path fill="currentColor" d="M128 0C57.308 0 0 57.308 0 128c0 70.693 57.308 128 128 128 70.693 0 128-57.307 128-128C256 57.308 198.693 0 128 0m0 33.805c51.939 0 94.195 42.256 94.195 94.195 0 51.94-42.256 94.195-94.195 94.195-51.939 0-94.195-42.255-94.195-94.195 0-51.939 42.256-94.195 94.195-94.195m-12.5 121.838h-.113a6.342 6.342 0 0 1-4.953-2.528L81.56 114.732a6.34 6.34 0 0 1 10.131-7.62l23.993 31.893 6.863-8.478a6.34 6.34 0 0 1 4.926-2.35h.008a6.331 6.331 0 0 1 4.93 2.364l6.59 8.187 37.692-48.594a6.338 6.338 0 0 1 10.015 7.77L144.1 152.837a6.338 6.338 0 0 1-4.95 2.453h-.057a6.335 6.335 0 0 1-4.938-2.364l-6.697-8.319-7.033 8.686a6.336 6.336 0 0 1-4.926 2.35"/></g>
-      <text x="40" y="20.333333333333332" fill="#fcf9f2" font-size="16" font-family="Calibri">
+      <text x="30" y="15" fill="#fcf9f2" font-size="16" font-family="Calibri">
         Laura's WakaTime Stats
       </text>
     </g>
-  <g transform="translate(166.5, 46) scale(1)">
+  <g transform="translate(166.5, 56) scale(1)">
       <text x="177.5" y="22.5" font-size="12" text-anchor="middle" fill="#997967" font-weight="bold">I'm most productive on Mondays</text>
       <path d="M 181.5 119.77731092436973 L 198.25353176717206 127.84538659882544 L 202.39131240389622 145.97418808057648 L 190.79750869537625 160.5123580937073 L 172.20249130462375 160.5123580937073 L 160.60868759610378 145.97418808057648 L 164.74646823282794 127.84538659882544 Z" fill="none" stroke="#fff1df" stroke-dasharray="2,2" stroke-width="0.5"/>
 <path d="M 181.5 98.3487394957983 L 215.00706353434413 114.48489084470972 L 223.28262480779244 150.74249380821178 L 200.0950173907525 179.81883383447342 L 162.9049826092475 179.81883383447342 L 139.71737519220756 150.74249380821178 L 147.99293646565587 114.48489084470972 Z" fill="none" stroke="#fff1df" stroke-dasharray="2,2" stroke-width="0.5"/>
@@ -64,7 +64,7 @@
                       transform="rotate(77, 263.0652496155849, 137.99339097776812)"
                       fill="#997967">51m</text>
     </g>
-<g transform="translate(0, 342.5) scale(1)">
+<g transform="translate(0, 352.5) scale(1)">
       <g transform="translate(0, 132.6)">
 <text font-family="Calibri" x="20" y="-110.49999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Total Time:</tspan> 242 hrs 58 mins</text>
 <text font-family="Calibri" x="20" y="-88.39999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Daily Average:</tspan> 2 hrs 5 mins</text>
@@ -74,7 +74,7 @@
 <text font-family="Calibri" x="20" y="0" fill="#997967" font-size="13"><tspan font-weight="bold">Most Active Day:</tspan> June 9th, 2025</text>
 </g>
     </g>
-<g transform="translate(0, 495.5) scale(1)">
+<g transform="translate(0, 505.5) scale(1)">
       <text x="40" y="18" font-size="14" fill="#997967" font-family="Calibri" font-weight="bold">
         This year, my most productive month was June
       </text>
