@@ -61,7 +61,7 @@ ___
 __*Note: some group projects were cloned from another directory or repository upon completion*__
 ___ 
 ## About My Repositories and Programming Experience:
-🐻 I’m currently working refining my skills, earning my masters, and job searching.
+🐻 I'm currently focused on strengthening my corporate and networking skills, refining my technical expertise, completing my master's degree, and actively seeking full-time opportunities.
 
 💼 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=16%2B)](https://git.io/typing-svg) __programming langauges__, including
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>(C), 
