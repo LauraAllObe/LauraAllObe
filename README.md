@@ -136,3 +136,64 @@ ___
   <img align="right" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/thankYouCatCube.gif" height="180"/>
   <h2 align="right">THANK YOU!!</h2>
 </div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=mocha_pink" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=latte_red" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=icy_indigo" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=storm_blue" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=sky_blue" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=sunlight_gold" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=fresh_green" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=soft_rose" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=neutral_cyan" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=amber_cream" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=nature_green" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=cherry_blossom" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=ocean_mist" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=lime_leaf" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=pastel_pink" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=lavender_dream" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=gray_cloud" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=frost_steel" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=earth_brown" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=royal_violet" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=lemon_glow" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=arctic_wave" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=spicy_coral" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=berry_grape" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=midnight_violet" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=teal_neon" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=dark_github" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=classic_monokai" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=cyber_aqua" width="200"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=warm_graphite" width="200"/>
+</div>
+
