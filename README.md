@@ -138,62 +138,25 @@ ___
 </div>
 
 <div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=mocha_pink&title_prefix=mocha_pink" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=latte_red&title_prefix=latte_red" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=icy_indigo&title_prefix=icy_indigo" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|bar&components=1&component1_type=weekly&chart_type=bar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|line&components=1&component1_type=weekly&chart_type=line" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|area&components=1&component1_type=weekly&chart_type=area" width="250"/>
 </div>
 
 <div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=storm_blue&title_prefix=storm_blue" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=sky_blue&title_prefix=sky_blue" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=sunlight_gold&title_prefix=sunlight_gold" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|radar&components=1&component1_type=weekly&chart_type=radar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|bubble&components=1&component1_type=weekly&chart_type=bubble" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|donut&components=1&component1_type=weekly&chart_type=donut" width="250"/>
 </div>
 
 <div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=fresh_green&title_prefix=fresh_green" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=soft_rose&title_prefix=soft_rose" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=neutral_cyan&title_prefix=neutral_cyan" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|spiral&components=1&component1_type=weekly&chart_type=spiral" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|bar&components=1&component1_type=weekly_avg&chart_type=bar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|line&components=1&component1_type=weekly_avg&chart_type=line" width="250"/>
 </div>
 
 <div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=amber_cream&title_prefix=amber_cream" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=nature_green&title_prefix=nature_green" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=cherry_blossom&title_prefix=cherry_blossom" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|area&components=1&component1_type=weekly_avg&chart_type=area" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|radar&components=1&component1_type=weekly_avg&chart_type=radar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|bubble&components=1&component1_type=weekly_avg&chart_type=bubble" width="250"/>
 </div>
-
-<div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=ocean_mist&title_prefix=ocean_mist" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=lime_leaf&title_prefix=lime_leaf" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=pastel_pink&title_prefix=pastel_pink" width="250"/>
-</div>
-
-<div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=lavender_dream&title_prefix=lavender_dream" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=gray_cloud&title_prefix=gray_cloud" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=frost_steel&title_prefix=frost_steel" width="250"/>
-</div>
-
-<div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=earth_brown&title_prefix=earth_brown" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=royal_violet&title_prefix=royal_violet" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=lemon_glow&title_prefix=lemon_glow" width="250"/>
-</div>
-
-<div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=arctic_wave&title_prefix=arctic_wave" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=spicy_coral&title_prefix=spicy_coral" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=berry_grape&title_prefix=berry_grape" width="250"/>
-</div>
-
-<div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=midnight_violet&title_prefix=midnight_violet" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=teal_neon&title_prefix=teal_neon" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=dark_github&title_prefix=dark_github" width="250"/>
-</div>
-
-<div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=classic_monokai&title_prefix=classic_monokai" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=cyber_aqua&title_prefix=cyber_aqua" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&theme=warm_graphite&title_prefix=warm_graphite" width="250"/>
-</div>
-
