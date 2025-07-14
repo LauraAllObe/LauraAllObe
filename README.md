@@ -138,19 +138,24 @@ ___
 </div>
 
 <div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=bar&components=1&component1_type=weekly&component1_chart_type=bar" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=line&components=1&component1_type=weekly&component1_chart_type=line" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=area&components=1&component1_type=weekly&component1_chart_type=area" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=heatmap&components=1&component1_type=heatmap" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=basic&components=1&component1_type=basic" width="250"/>
 </div>
 
 <div align="center">
-    <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=bar_vertical&components=1&component1_type=all_langs&component1_chart_type=bar_vertical" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=spiral&components=1&component1_type=weekly&component1_chart_type=spiral" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=donut&components=1&component1_type=weekly&component1_chart_type=donut" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_bar&components=1&component1_type=weekly&component1_chart_type=bar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg_bar&components=1&component1_type=weekly_avg&component1_chart_type=bar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=rank&components=1&component1_type=rank" width="250"/>
 </div>
 
 <div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=radar&components=1&component1_type=weekly&component1_chart_type=radar" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=bubble&components=1&component1_type=weekly&component1_chart_type=bubble" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_langs_bar&components=1&component1_type=weekly_langs&component1_chart_type=bar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_projs_bar&components=1&component1_type=weekly_projs&component1_chart_type=bar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=all_projs_bar_vertical&components=1&component1_type=all_projs&component1_chart_type=bar_vertical" width="250"/>
+</div>
+
+<div align="center">
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=all_langs_bar_vertical&components=1&component1_type=all_langs&component1_chart_type=bar_vertical" width="250"/>
+<img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=spedometer&components=1&component1_type=spedometer" width="250"/>
 </div>
 
