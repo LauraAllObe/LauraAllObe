@@ -144,20 +144,13 @@ ___
 </div>
 
 <div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|radar&components=1&component1_type=weekly&component1_chart_type=radar" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|bubble&components=1&component1_type=weekly&component1_chart_type=bubble" width="250"/>
+    <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|bar&components=1&component1_type=all_langs&component1_chart_type=bar_vertical" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|spiral&components=1&component1_type=weekly&component1_chart_type=spiral" width="250"/>
   <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|donut&components=1&component1_type=weekly&component1_chart_type=donut" width="250"/>
 </div>
 
 <div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|spiral&components=1&component1_type=weekly&component1_chart_type=spiral" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|bar&components=1&component1_type=weekly_avg&component1_chart_type=bar" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|line&components=1&component1_type=weekly_avg&component1_chart_type=line" width="250"/>
-</div>
-
-<div align="center">
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|area&components=1&component1_type=weekly_avg&component1_chart_type=area" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|radar&components=1&component1_type=weekly_avg&component1_chart_type=radar" width="250"/>
-  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly_avg|bubble&components=1&component1_type=weekly_avg&component1_chart_type=bubble" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|radar&components=1&component1_type=weekly&component1_chart_type=radar" width="250"/>
+  <img src="https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=LauraAllObe&title_prefix=weekly|bubble&components=1&component1_type=weekly&component1_chart_type=bubble" width="250"/>
 </div>
 
