@@ -121,7 +121,7 @@ ___
   </div>
   <div>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/work.gif" height="460"/>
-    <img src="wakatime/stats.svg?v=1" height="460"/>
+    <img src="wakatime/stats.svg" height="460"/>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/workHome.gif" height="460"/>
   </div>
 </div>
