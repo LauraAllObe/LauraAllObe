@@ -31,7 +31,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#fff1df" stroke-width="0.5"/>
-<polygon points="181.5,55.49159663865544 237.5000349223381,96.54734472589121 256.3862918225989,158.29818978272579 211.320885525741,203.12958921187663 156.0194829116649,194.11672128259602 128.34703056263595,153.33770077147858 134.65114732181925,103.84516904241988" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
+<polygon points="181.5,55.49159663865544 239.13062218514568,95.24699477555157 253.58705342424446,157.65928188503906 210.75822730350376,201.96121737444366 156.50024738910582,193.11840355847806 129.34991678693808,153.10879853522584 135.53508794588308,104.55008816746289" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Wed</text>
@@ -56,18 +56,18 @@
 
                 <text x="242.17393721168867" y="134.29651382156138" font-size="8" text-anchor="start"
                       transform="rotate(77, 242.17393721168867, 134.29651382156138)"
-                      fill="#997967">40m</text>
+                      fill="#997967">41m</text>
               
 <circle cx="265.0652496155849" cy="160.2791052634824" r="0.8" fill="#997967"/>
 
                 <text x="263.0652496155849" y="137.99339097776812" font-size="8" text-anchor="start"
                       transform="rotate(77, 263.0652496155849, 137.99339097776812)"
-                      fill="#997967">54m</text>
+                      fill="#997967">55m</text>
     </g>
 <g transform="translate(0, 490.75) scale(1.2)">
       <g transform="translate(0, 132.6)">
-<text font-family="Calibri" x="20" y="-110.49999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Total Time:</tspan> 260 hrs 23 mins</text>
-<text font-family="Calibri" x="20" y="-88.39999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Daily Average:</tspan> 2 hrs 8 mins</text>
+<text font-family="Calibri" x="20" y="-110.49999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Total Time:</tspan> 262 hrs 18 mins</text>
+<text font-family="Calibri" x="20" y="-88.39999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Daily Average:</tspan> 2 hrs 7 mins</text>
 <text font-family="Calibri" x="20" y="-66.3" fill="#997967" font-size="13"><tspan font-weight="bold">Top Languages:</tspan> TypeScript, Python, JavaScript</text>
 <text font-family="Calibri" x="20" y="-44.199999999999996" fill="#997967" font-size="13"><tspan font-weight="bold">Top Projects:</tspan> nutriverse_v2, wakatimeReadmeStats, Portfolio</text>
 <text font-family="Calibri" x="20" y="-22.099999999999998" fill="#997967" font-size="13"><tspan font-weight="bold">Top OS:</tspan> Windows</text>
@@ -457,7 +457,7 @@
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.24" stroke="#997967" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.50" stroke="#997967" stroke-width="0.5" />
 <rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.50" stroke="#997967" stroke-width="0.5" />
-<rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.10" stroke="#997967" stroke-width="0.5" />
+<rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.34" stroke="#997967" stroke-width="0.5" />
 <rect x="624" y="24" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.10" stroke="#997967" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#997967" font-family="Calibri">Less</text>
