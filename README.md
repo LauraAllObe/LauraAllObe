@@ -125,6 +125,11 @@ ___
     <img src="wakatime/stats.svg" height="460"/>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/workHome.gif" height="460"/>
   </div>
+  <div>
+      <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/typing.gif" height="137.5"/>
+      <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=forest" height="137.5"/>
+      <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/writing.gif" height="137.5"/>
+  </div>
 </div>
 
 ___
