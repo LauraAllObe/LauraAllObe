@@ -82,13 +82,14 @@ MIPS Assembly,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/markdown.svg"></code>(Markdown), and 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>(Sublime Text).  
 
-🪑 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=26%2B)](https://git.io/typing-svg) __technologies and tools__, including 
+🪑 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=28%2B)](https://git.io/typing-svg) __technologies and tools__, including 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>(Linux), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg"></code>(Ubuntu), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"></code>(Windows), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"></code>(Flask), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>(React), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/expo.svg"></code>(Expo), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/auth0.svg"></code>(Auth0), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>(Node.js), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/npm.svg"></code>(NPM), 
