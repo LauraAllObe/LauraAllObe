@@ -31,7 +31,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#fff1df" stroke-width="0.5"/>
-<polygon points="181.5,55.49159663865544 239.61976498596619,94.85691640853383 259.6556832774055,159.04440704751232 211.9192010216569,204.37200414104677 157.23005886151634,191.60293442055365 132.5062608253023,152.38838360553896 129.60522151208562,99.82117748688242" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
+<polygon points="181.5,55.49159663865544 241.06538328422957,93.70407428518732 259.6556832774055,159.04440704751232 211.9192010216569,204.37200414104677 157.23005886151634,191.60293442055365 132.5062608253023,152.38838360553896 129.60522151208562,99.82117748688242" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Wed</text>
@@ -458,7 +458,7 @@
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.12" stroke="#997967" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.36" stroke="#997967" stroke-width="0.5" />
 <rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.21" stroke="#997967" stroke-width="0.5" />
-<rect x="624" y="12" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.12" stroke="#997967" stroke-width="0.5" />
+<rect x="624" y="12" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.25" stroke="#997967" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#997967" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.1"/>
