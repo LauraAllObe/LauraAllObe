@@ -31,7 +31,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#fff1df" stroke-width="0.5"/>
-<polygon points="181.5,55.49159663865544 243.88274653937947,91.45730206239014 263.60772497651885,159.9464347758527 211.45705139574198,203.41234055441652 157.59878466105795,190.83726740833725 132.72703070127073,152.33799432200723 125.63627173460961,96.65604565753455" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
+<polygon points="181.5,55.49159663865544 242.69034480171086,92.40821071703802 262.0382943347273,159.58822247335584 210.8844437097825,202.2233084426799 158.0556393570043,189.88859885708013 133.65929124716305,152.12521193597593 126.70406708431018,97.50758403369315" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Wed</text>
@@ -62,7 +62,7 @@
 
                 <text x="263.0652496155849" y="137.99339097776812" font-size="8" text-anchor="start"
                       transform="rotate(77, 263.0652496155849, 137.99339097776812)"
-                      fill="#997967">56m</text>
+                      fill="#997967">57m</text>
     </g>
 <g transform="translate(0, 490.75) scale(1.2)">
       <g transform="translate(0, 132.6)">
@@ -458,7 +458,7 @@
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.10" stroke="#997967" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.10" stroke="#997967" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.42" stroke="#997967" stroke-width="0.5" />
-<rect x="624" y="0" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.11" stroke="#997967" stroke-width="0.5" />
+<rect x="624" y="0" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.23" stroke="#997967" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#997967" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#fcf9f2" fill-opacity="0.1"/>
