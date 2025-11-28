@@ -130,7 +130,7 @@ ___
   </div>
   <div>
       <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/typing.gif" height="137.5"/>
-      <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Eczar&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="137.5"/>
+      <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="137.5"/>
       <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/writing.gif" height="137.5"/>
   </div>
 </div>
