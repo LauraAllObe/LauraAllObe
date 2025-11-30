@@ -21,7 +21,7 @@
 7. [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
 ___
 ## Introduction
-🐎 Hi, I’m Laura Obermaier. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
+🐎 Hi, I’m Laura Lovelace. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
 student, I've earned my __Bachelors of Science in Computer Science__ while undertaking the __Undergraduate Research Opportunity Program__ from August [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2022)](https://git.io/typing-svg) to June [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2023)](https://git.io/typing-svg) and am pursuing my __Masters in Software Engineering__ with [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2)](https://git.io/typing-svg) __Graduate Certificates__; namely, in __Machine Learning__ and __Cyber Security__. 
 
 🫘 With a 
