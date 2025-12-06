@@ -1,6 +1,21 @@
 <div align="center" valign="center">
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=714542BB&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Laura's+GitHub!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=e6ddd8&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Laura's+GitHub!"
+      />
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=714542BB&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Laura's+GitHub!"
+      />
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=714542BB&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Laura's+GitHub!"
+        alt="Typing SVG"
+      />
+    </picture>
+  </a>
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
 </div>  
 &nbsp;
@@ -22,22 +37,157 @@
 ___
 ## Introduction
 🐎 Hi, I’m Laura Lovelace. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
-student, I've earned my __Bachelors of Science in Computer Science__ while undertaking the __Undergraduate Research Opportunity Program__ from August [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2022)](https://git.io/typing-svg) to June [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2023)](https://git.io/typing-svg) and am pursuing my __Masters in Software Engineering__ with [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2)](https://git.io/typing-svg) __Graduate Certificates__; namely, in __Machine Learning__ and __Cyber Security__. 
+student, I've earned my __Bachelors of Science in Computer Science__ while undertaking the __Undergraduate Research Opportunity Program__ from August 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2022" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2022" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2022" alt="Typing SVG" />
+  </picture>
+</a>
+to June 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2023" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2023" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2023" alt="Typing SVG" />
+  </picture>
+</a>
+and am pursuing my __Masters in Software Engineering__ with 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=2" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2" alt="Typing SVG" />
+  </picture>
+</a>
+__Graduate Certificates__; namely, in __Machine Learning__ and __Cyber Security__. 
 
 🫘 With a 
-__[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA__ and only __[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=2.5)](https://git.io/typing-svg) years to earn my Bachelors__ (note only [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=7)](https://git.io/typing-svg) entrance credits) as an __honors student__ making the presidents list [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=4)](https://git.io/typing-svg) times and dean's list [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=7)](https://git.io/typing-svg) times, graduating before 
-I turned [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=21)](https://git.io/typing-svg) has been one of my greatest achievements so far. I was honored to be a Course Assistant for Dr. Reza Peyrovian this Spring [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg), working [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=5-20)](https://git.io/typing-svg) hours per week during full-time study. Currently, I hold a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9)](https://git.io/typing-svg) GPA and am undertaking two Summer [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025)](https://git.io/typing-svg) internships, one as a full-stack developer intern with NutriverseAI and another as a software architect & engineer at A.I. Blockchain.
+__<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=25&height=18&lines=3.9" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9" alt="Typing SVG" />
+  </picture>
+</a> GPA__ and only __<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=25&height=18&lines=2.5" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=2.5" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=2.5" alt="Typing SVG" />
+  </picture>
+</a> years to earn my Bachelors__ (note only 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=8&height=18&lines=7" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=7" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=7" alt="Typing SVG" />
+  </picture>
+</a>
+entrance credits) as an __honors student__ making the presidents list 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=4" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=4" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=4" alt="Typing SVG" />
+  </picture>
+</a>
+times and dean's list 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=7" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=7" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=7" alt="Typing SVG" />
+  </picture>
+</a>
+times, graduating before 
+I turned 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=21" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=21" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=21" alt="Typing SVG" />
+  </picture>
+</a>
+has been one of my greatest achievements so far. I was honored to be a Course Assistant for Dr. Reza Peyrovian this Spring 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2025" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025" alt="Typing SVG" />
+  </picture>
+</a>, working 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=5-20" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=5-20" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=5-20" alt="Typing SVG" />
+  </picture>
+</a>
+hours per week during full-time study. Currently, I hold a 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=25&height=18&lines=3.9" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9" alt="Typing SVG" />
+  </picture>
+</a>
+GPA and am undertaking two Summer 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2025" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025" alt="Typing SVG" />
+  </picture>
+</a>
+internships, one as a full-stack developer intern with NutriverseAI and another as a software architect & engineer at A.I. Blockchain.
 
-🎻 I’m interested in Software Engineering, Cybersecurity, and Machine Learning (especially Natural Language Processing). I am __seeking a full-time position__ remote or in-person in the NYC area for Spring [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026)](https://git.io/typing-svg). I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
+🎻 I’m interested in Software Engineering, Cybersecurity, and Machine Learning (especially Natural Language Processing). I am __seeking a full-time position__ remote or in-person in the NYC area for Spring 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2026" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026" alt="Typing SVG" />
+  </picture>
+</a>. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
 factor that, in my opinion, makes up a good team.
 ___
 ## A Little More About Me:
 👞 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
 anime. Plants and tailoring have also been recent interests of mine. 
 
-🦬 As for my background, I am fluent in both German and English and have spent over [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=6)](https://git.io/typing-svg) years studying French. My formative 
+🦬 As for my background, I am fluent in both German and English and have spent over 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=8&height=18&lines=6" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=6" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=6" alt="Typing SVG" />
+  </picture>
+</a>
+years studying French. My formative 
 years were spent in three different countries: Germany, China, and the United States. Moving to Beijing, China for family 
-reasons at the age of [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=9)](https://git.io/typing-svg); then to Florida, United States at [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=13)](https://git.io/typing-svg); and finally to New York, United States at [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=20)](https://git.io/typing-svg); I consider 
+reasons at the age of 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=8&height=18&lines=9" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=9" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=9" alt="Typing SVG" />
+  </picture>
+</a>; then to Florida, United States at 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=13" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=13" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=13" alt="Typing SVG" />
+  </picture>
+</a>; and finally to New York, United States at 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=20" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=20" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=20" alt="Typing SVG" />
+  </picture>
+</a>; I consider 
 myself to have gained open-mindedness and an appreciation for different cultures during this time.
 
 🍯 In terms of character, my most pronounced characteristics are my *time management*, *dedication*, *focus*, and *calm*; 
@@ -47,7 +197,15 @@ them and as I have found a lack of honesty to be only briefly effective at accom
 ___
 ## A Brief Overview on All Repositories:
 **[/elevatorKernelModule:](https://github.com/LauraAllObe/elevatorKernelModule)** an elevator kernel module implementation in C (group)  
-**[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg) file system implementation in C (group)  
+**[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=32" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32" alt="Typing SVG" />
+  </picture>
+</a>
+file system implementation in C (group)  
 **[/hackerNews:](https://github.com/LauraAllObe/hackerNews)** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
 **[machineLearningProject:](https://github.com/LauraAllObe/machineLearningProject)** machine learning using combined models implemented in Python (group)  
 **[/myNotes:](https://github.com/LauraAllObe/myNotes)** full-stack sticky note (android) mobile application, implementation in Java (group)  
@@ -63,7 +221,15 @@ ___
 ## About My Repositories and Programming Experience:
 🐻 I'm currently focused on strengthening my corporate and networking skills, refining my technical expertise, completing my master's degree, and actively seeking full-time opportunities.
 
-💼 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=17%2B)](https://git.io/typing-svg) __programming langauges__, including
+💼 I'm knowledgeable in 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=17%2B" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=17%2B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=17%2B" alt="Typing SVG" />
+  </picture>
+</a>
+__programming langauges__, including
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>(C), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>(C++), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/csharp.svg"></code>(C#), 
@@ -82,7 +248,15 @@ MIPS Assembly,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/markdown.svg"></code>(Markdown), and 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>(Sublime Text).  
 
-🪑 I'm knowledgeable in [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=28%2B)](https://git.io/typing-svg) __technologies and tools__, including 
+🪑 I'm knowledgeable in 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=28%2B" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=28%2B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=28%2B" alt="Typing SVG" />
+  </picture>
+</a>
+__technologies and tools__, including 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>(Linux), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg"></code>(Ubuntu), 
@@ -112,7 +286,31 @@ Gunicorn,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda), and
 Hugging Face Transformers.
 
-🦫 My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best individual projects__ can be found in the nutritionAnalyzer (Jupyter Notebook), practicePanther (C#), and hackerNews (Python) repositories. My [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3)](https://git.io/typing-svg) __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32)](https://git.io/typing-svg)filesystem (C) repositories.
+🦫 My 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=3" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3" alt="Typing SVG" />
+  </picture>
+</a>
+__best individual projects__ can be found in the nutritionAnalyzer (Jupyter Notebook), practicePanther (C#), and hackerNews (Python) repositories. My 
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=3" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3" alt="Typing SVG" />
+  </picture>
+</a>
+__best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=32" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32" alt="Typing SVG" />
+  </picture>
+</a>
+filesystem (C) repositories.
 ___
 ## My Stats:
 <div  align="center" valign="center">
@@ -145,4 +343,3 @@ ___
   <img align="right" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/thankYouCatCube.gif" height="180"/>
   <h2 align="right">THANK YOU!!</h2>
 </div>
-
