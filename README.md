@@ -225,9 +225,9 @@ ___
 ## My Stats:
 <div  align="center" valign="center">
   <div>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatProfessional.gif" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="160" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="160"/>
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatProfessional.gif" height="146"/>
+    <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LauraAllObe&theme=road_trip" height="146">
+    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="146"/>
   </div>
   <div>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/work.gif" height="460"/>
@@ -245,7 +245,6 @@ ___
 
 ___
 
-
 <div align="center">
   <h2 align="left">Goodbye, and...</h2>
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/catClosingDoor.gif" align="left" height="180"/>
@@ -253,3 +252,7 @@ ___
   <img align="right" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/thankYouCatCube.gif" height="180"/>
   <h2 align="right">THANK YOU!!</h2>
 </div>
+
+___
+
+<img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="1" href="https://github.com/anuraghazra/github-readme-stats">
