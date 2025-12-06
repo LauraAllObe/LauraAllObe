@@ -22,115 +22,20 @@
     <img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/>
   </a>
 </div>
-<hr/>
+<br/>
 
-## Table of Contents:  
-1. [Introduction](https://github.com/LauraAllObe#introduction)  
-2. [A Little More About Me](https://github.com/LauraAllObe#a-little-more-about-me)  
-3. [My Stats](https://github.com/LauraAllObe#my-stats)  
-4. [A Brief Overview on All Repositories](https://github.com/LauraAllObe#a-brief-overview-on-all-repositories)  
-5. [About My Repositories and Programming Experience](https://github.com/LauraAllObe#about-my-repositories-and-programming-experience)
-6. [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and)
-7. [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
+__Jump to__ [About Me](https://github.com/LauraAllObe#about-me) | [Repositories](https://github.com/LauraAllObe#repositories) | [Tech Stack](https://github.com/LauraAllObe#tech-stack) | [Stats](https://github.com/LauraAllObe#stats) | [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and) | [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
 ___
-## Introduction
-🐎 Hi, I’m Laura Lovelace. As a __Florida State University__ (FSU) Alumni and current __Stevens Institute of Technology__ (SIT) Masters  
-student, I've earned my __Bachelors of Science in Computer Science__ while undertaking the __Undergraduate Research Opportunity Program__ from August <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2022" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2022" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2022" alt="Typing SVG" />
-</picture> to June <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2023" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2023" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2023" alt="Typing SVG" />
-  </picture> and am pursuing my __Masters in Software Engineering__ with <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=2" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2" alt="Typing SVG" />
-  </picture> __Graduate Certificates__; namely, in __Machine Learning__ and __Cyber Security__. 
 
-🫘 With a 
-__<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=25&height=18&lines=3.9" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9" alt="Typing SVG" />
-  </picture> GPA__ and only __<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=25&height=18&lines=2.5" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=2.5" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=2.5" alt="Typing SVG" />
-  </picture> years to earn my Bachelors__ (note only <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=8&height=18&lines=7" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=7" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=7" alt="Typing SVG" />
-  </picture> entrance credits) as an __honors student__ making the presidents list <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=4" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=4" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=4" alt="Typing SVG" />
-  </picture> times and dean's list <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=7" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=7" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=7" alt="Typing SVG" />
-  </picture> times, graduating before 
-I turned <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=21" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=21" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=21" alt="Typing SVG" />
-  </picture> has been one of my greatest achievements so far. I was honored to be a Course Assistant for Dr. Reza Peyrovian this Spring <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2025" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025" alt="Typing SVG" />
-  </picture>, working <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=5-20" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=5-20" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=5-20" alt="Typing SVG" />
-  </picture> hours per week during full-time study. Currently, I hold a <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=25&height=18&lines=3.9" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=25&height=18&lines=3.9" alt="Typing SVG" />
-  </picture> GPA and am undertaking two Summer <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2025" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2025" alt="Typing SVG" />
-  </picture> internships, one as a full-stack developer intern with NutriverseAI and another as a software architect & engineer at A.I. Blockchain.
+## About Me
+🐎 Hi, I’m Laura Lovelace. I’m a software engineer with a __B.S. in Computer Science__ from __Florida State University__ (FSU) and an __M.S. in Software Engineering__ from __Stevens Institute of Technology__ (SIT), plus <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=2" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2" /><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2" alt="Typing SVG" /></picture> graduate certificates in __Machine Learning__ and __Cyber Security__.
 
-🎻 I’m interested in Software Engineering, Cybersecurity, and Machine Learning (especially Natural Language Processing). I am __seeking a full-time position__ remote or in-person in the NYC area for Spring <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2026" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026" alt="Typing SVG" />
-  </picture>. I love to work in teams that are dedicated. Even if not everyone is equally skilled, drive is the main 
-factor that, in my opinion, makes up a good team.
-___
-## A Little More About Me:
-👞 Outside of programming, my main interests and hobbies are resistance training, cooking, ceramics, skin care, and 
-anime. Plants and tailoring have also been recent interests of mine. 
+🎻 I’ve completed two Summer internships (full-stack at NutriverseAI and software architect & engineer at A.I. Blockchain), and I’m currently working part-time at A.I. Blockchain and starting an internship at DK AI. I’m looking for full-time roles starting Spring <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2026" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026" /><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026" alt="Typing SVG" /></picture> as a software engineer, AI engineer, or security-focused developer (NYC or remote).
 
-🦬 As for my background, I am fluent in both German and English and have spent over <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=8&height=18&lines=6" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=6" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=6" alt="Typing SVG" />
-  </picture> years studying French. My formative 
-years were spent in three different countries: Germany, China, and the United States. Moving to Beijing, China for family 
-reasons at the age of <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=8&height=18&lines=9" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=9" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=9" alt="Typing SVG" />
-  </picture>; then to Florida, United States at <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=13" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=13" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=13" alt="Typing SVG" />
-  </picture>; and finally to New York, United States at <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=20" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=20" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=20" alt="Typing SVG" />
-  </picture>; I consider 
-myself to have gained open-mindedness and an appreciation for different cultures during this time.
-
-🍯 In terms of character, my most pronounced characteristics are my *time management*, *dedication*, *focus*, and *calm*; 
-but also my *introversion*. I put both my strengths and weaknesses here as I believe everyone to have 
-them and as I have found a lack of honesty to be only briefly effective at accomplishing one's goals.  
+👞 Outside of programming, I enjoy resistance training, cooking, ceramics, skin care, anime, and recently plants and tailoring. I’m fluent in German and English, have studied French for <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=8&height=18&lines=6" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=6" /><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=8&height=18&lines=6" alt="Typing SVG" /></picture> years, and grew up across Germany, China, and the United States. Personality-wise, I’m very structured with time, calm under pressure, detail-oriented, and pretty introverted, which makes me value focused, thoughtful work over noise.
 
 ___
-## A Brief Overview on All Repositories:
+## Repositories:
 **[/elevatorKernelModule:](https://github.com/LauraAllObe/elevatorKernelModule)** an elevator kernel module implementation in C (group)  
 **[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=32" />
@@ -149,9 +54,7 @@ ___
 
 __*Note: some group projects were cloned from another directory or repository upon completion*__
 ___ 
-## About My Repositories and Programming Experience:
-🐻 I'm currently focused on strengthening my corporate and networking skills, refining my technical expertise, completing my master's degree, and actively seeking full-time opportunities.
-
+## Tech Stack:
 💼 I'm knowledgeable in <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=17%2B" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=17%2B" />
@@ -208,21 +111,8 @@ Gunicorn,
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda), and
 Hugging Face Transformers.
 
-🦫 My <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=3" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3" alt="Typing SVG" />
-  </picture> __best individual projects__ can be found in the nutritionAnalyzer (Jupyter Notebook), practicePanther (C#), and hackerNews (Python) repositories. My <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=3" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=3" alt="Typing SVG" />
-  </picture> __best team projects__ can be found in the myNotes (Java), proFessUp (JavaScript), and fat<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=32" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32" alt="Typing SVG" />
-  </picture> filesystem (C) repositories.
 ___
-## My Stats:
+## Stats:
 <div  align="center" valign="center">
   <div>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatProfessional.gif" height="146"/>
