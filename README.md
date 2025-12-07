@@ -56,10 +56,10 @@ __*Note: some group projects were cloned from another directory or repository up
 ___ 
 ## Tech Stack:
 💼 I'm knowledgeable in <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=17%2B" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=17%2B" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=17%2B" alt="Typing SVG" />
-  </picture> __programming langauges__, including
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=21%2B" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=21%2B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=21%2B" alt="Typing SVG" />
+  </picture> __programming languages__, including
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>(C), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>(C++), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/csharp.svg"></code>(C#), 
@@ -68,48 +68,71 @@ ___
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>(Javascript), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>(Java), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>(MySQL), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/json.svg"></code>(JSON), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg"></code>(PostgreSQL), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sqlite.svg"></code>(SQLite), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg"></code>(Bash), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>(HTML), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>(CSS), 
-MIPS Assembly, 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/latex.svg"></code>(LaTeX), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/markdown.svg"></code>(Markdown), and 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>(Sublime Text).  
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>(CSS), and 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/markdown.svg"></code>(Markdown).  
 
-🪑 I'm knowledgeable in <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=28%2B" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=28%2B" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=28%2B" alt="Typing SVG" />
-  </picture> __technologies and tools__, including 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>(Linux), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg"></code>(Ubuntu), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"></code>(Windows), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"></code>(Flask), 
+🪵 I'm knowledgeable in <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=9%2B" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=9%2B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=9%2B" alt="Typing SVG" />
+  </picture> __frameworks & libraries__, including 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>(React), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/expo.svg"></code>(Expo), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/auth0.svg"></code>(Auth0), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>(Node.js), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg"></code>(Next.js), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dot-net.svg"></code>(.NET MAUI), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"></code>(Flask), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fastapi.svg"></code>(FastAPI), 
+Hugging Face Transformers, and 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/openai.svg"></code>(OpenAI).  
+
+🪑 I'm knowledgeable in <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=24%2B" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=24%2B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=24%2B" alt="Typing SVG" />
+  </picture> __technologies and tools__, including 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>(Git), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></code>(GitHub), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg"></code>(GitLab), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jira.svg"></code>(Jira), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg"></code>(Docker), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vercel.svg"></code>(Vercel), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg"></code>(Heroku), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/npm.svg"></code>(NPM), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/nginx.svg"></code>(Nginx), 
-Gunicorn, 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/android.svg"></code>(Android), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/latex.svg"></code>(LaTeX), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>(Jupyter Notebook), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/androidstudio.svg"></code>(Android Studio), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudio.svg"></code>(Visual Studio), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>(VSCode), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>(Git), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></code>(GitHub), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg"></code>(Docker),
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/openai.svg"></code>(OpenAI), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dot-net.svg"></code>(.NET MAUI), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>(Jupyter Notebook), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/virtualbox.svg"></code>(Virtual Box), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>(Vim), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/json.svg"></code>(JSON), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg"></code>(Bash), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/shell.svg"></code>(Shell), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg"></code>(PowerShell), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda),
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/virtualbox.svg"></code>(VirtualBox), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>(Linux), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/ubuntu.svg"></code>(Ubuntu), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"></code>(Windows), and 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/android.svg"></code>(Android).
+
+🦇 I'm knowledgeable in <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=9%2B" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=9%2B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=9%2B" alt="Typing SVG" />
+  </picture> __Cloud & DevOps__, including 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg"></code>(Amazon AWS), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg"></code>(Microsoft Azure), 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linode.svg"></code>(Linode), 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftazure.svg"></code>(Microsoft Azure),
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/anaconda.svg"></code>(Anaconda), and
-Hugging Face Transformers.
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg"></code>(Firebase), 
+Supabase,
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"></code>(MongoDB), 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg"></code>(Nginx), 
+Gunicorn, and 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/githubactions.svg"></code>(GitHub Actions).
 
 ___
 ## Stats:
