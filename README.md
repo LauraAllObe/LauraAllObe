@@ -24,7 +24,7 @@
 </div>
 <br/>
 
-__Jump to__ [About Me](https://github.com/LauraAllObe#about-me) | [Repositories](https://github.com/LauraAllObe#repositories) | [Tech Stack](https://github.com/LauraAllObe#tech-stack) | [Stats](https://github.com/LauraAllObe#stats) | [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and) | [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
+__Jump to__ [About Me](https://github.com/LauraAllObe#about-me) | [Repositories](https://github.com/LauraAllObe#repositories) | [Skills](https://github.com/LauraAllObe#skills) | [Stats](https://github.com/LauraAllObe#stats) | [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and) | [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
 ___
 
 ## About Me
@@ -54,7 +54,7 @@ ___
 
 __*Note: some group projects were cloned from another directory or repository upon completion*__
 ___ 
-## Tech Stack:
+## Skills:
 💼 I'm knowledgeable in <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=13%2B" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=13%2B" />
