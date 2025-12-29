@@ -168,6 +168,6 @@ ___
 
 ___
 
-<img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="1" href="https://github.com/anuraghazra/github-readme-stats">
-
 <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LauraAllObe&theme=road_trip" height="1">
+
+<img src="assets/profileGotchi.svg" align="center" width="40" height="40"/>
