@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> How did the hippie learn about database transactions?</p>
-            <p class="answer"><b>A.</b> By taking ACID </p>
+            <p class="question"><b>Q.</b> What advice do you give to a JS developer who has never played baseball?</p>
+            <p class="answer"><b>A.</b> Try catch. </p>
           </div>
         </div>
       </div>
