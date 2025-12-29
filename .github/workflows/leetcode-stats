@@ -1,0 +1,28 @@
+name: Update Leetcode Stats SVG
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate SVG from Leetcard API
+        run: |
+          mkdir -p assets
+          curl -s "https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" \
+            -o assets/leetcodeStats.svg
+
+      - name: Commit SVG to repo
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/leetcodeStats.svg
+          git commit -m "Update Leetcode stats SVG" || echo "No changes"
+          git push
