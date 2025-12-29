@@ -162,7 +162,7 @@ ___
   <h2 align="left">Goodbye, and...</h2>
   <img src="assets/goodbye.gif" align="left" height="180"/>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23e6ddd8&borderColor=%23997967&qColor=%23ab8c7b&aColor=%23997967&textColor=%23997967&codeColor=%23997967" alt="Jokes Card" align="center" width="300" height="180"/>
-  <img align="right" src="assets/thankyou.gif" height="180"/>
+  <img align="right" src="assets/thankYou.gif" height="180"/>
   <h2 align="right">THANK YOU!!</h2>
 </div>
 
