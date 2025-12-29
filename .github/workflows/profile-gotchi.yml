@@ -24,8 +24,19 @@ jobs:
           
       - name: Commit SVG to repo
         run: |
+          mkdir -p assets
+          if [ ! -f dist/pet.svg ]; then
+            echo "Expected dist/pet.svg was not generated."
+            echo "Listing files for debugging:"
+            ls -R
+            exit 1
+          fi
+          mv -f dist/pet.svg assets/profileGotchi.svg
+
+      - name: Commit SVG to repo
+        run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets/profileGotchi.svg
-          git commit -m "Update Profile Gotchi SVG" || exit 0
-          git push
+
+          # stage additions + deletions (adds assets/profileGotchi.svg, removes dist/pet.svg)
+          git add -A
