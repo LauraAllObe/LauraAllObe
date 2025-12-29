@@ -139,7 +139,7 @@ ___
 <div  align="center" valign="center">
   <div>
     <img src="assets/topLeft.gif" height="140"/>
-    <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="140"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="140"/>
     <img src="assets/topRight.gif" height="140"/>
   </div>
   <div>
@@ -151,7 +151,7 @@ ___
   </div>
   <div>
       <img src="assets/bottomLeft.gif" height="152"/>
-      <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="152"/>
+      <img src="assets/leetcodeStats.svg" height="152"/>
       <img src="assets/bottomRight.gif" height="152"/>
   </div>
 </div>
@@ -161,7 +161,7 @@ ___
 <div align="center">
   <h2 align="left">Goodbye, and...</h2>
   <img src="assets/goodbye.gif" align="left" height="180"/>
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23e6ddd8&borderColor=%23997967&qColor=%23ab8c7b&aColor=%23997967&textColor=%23997967&codeColor=%23997967" alt="Jokes Card" align="center" width="300" height="180"/>
+  <img src="assets/jokesCard.svg" align="center" width="300" height="180"/>
   <img align="right" src="assets/thankYou.gif" height="180"/>
   <h2 align="right">THANK YOU!!</h2>
 </div>
