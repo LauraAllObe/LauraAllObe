@@ -1,0 +1,28 @@
+name: Update GitHub Stats SVG
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate SVG from Vercel API
+        run: |
+          mkdir -p assets
+          curl -s "https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" \
+            -o assets/githubStats.svg
+
+      - name: Commit SVG to repo
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/githubStats.svg
+          git commit -m "Update GitHub stats SVG" || echo "No changes"
+          git push
