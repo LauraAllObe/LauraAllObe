@@ -18,7 +18,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&components=1&show_header=false&bg_color=e6ddd8&text_color=997967&logo_color=fcf9f2&border_color=ab8c7b&border_width=2&border_radius=10&component1_type=rank&component1_rank_color=fcf9f2" \
+          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&default_source=github&components=1&show_header=false&bg_color=e6ddd8&text_color=997967&logo_color=fcf9f2&border_color=ab8c7b&border_width=2&border_radius=10&component1_type=rank&component1_rank_color=fcf9f2" \
             -o assets/wakatimeRank.svg
 
       - name: Commit SVG to repo
