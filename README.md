@@ -146,11 +146,11 @@ ___
 ## Stats:
 <div  align="center" valign="center">
   <div>
-    <img src="assets/topLeft.gif" height="169"/>
+    <img src="assets/topLeft.gif" height="155.5"/>
     <a href="https://github.com/LauraAllObe/wakatimeReadmeStats">
-      <img src="assets/wakatimeRank.svg" height="169"/>
+      <img src="assets/wakatimeRank.svg" height="155.5"/>
     </a>
-    <img src="assets/topRight.gif" height="169"/>
+    <img src="assets/topRight.gif" height="155.5"/>
   </div>
   <div>
     <img src="assets/work.gif" height="460"/>
