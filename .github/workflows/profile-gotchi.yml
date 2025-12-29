@@ -23,7 +23,7 @@ jobs:
           background_theme: 'minimal'
           show_level: 'true'
           
-      - name: Generate Pet 👾
+      - name: Commit SVG to repo
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
