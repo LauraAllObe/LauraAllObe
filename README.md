@@ -145,7 +145,7 @@ ___
   <div>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/work.gif" height="460"/>
     <a href="https://github.com/LauraAllObe/wakatimeReadmeStats">
-      <img src="wakatime/stats.svg" height="460" />
+      <img src="assets/wakatimeStats.svg" height="460" />
     </a>
     <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/workHome.gif" height="460"/>
   </div>
