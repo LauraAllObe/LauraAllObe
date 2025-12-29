@@ -138,9 +138,9 @@ ___
 ## Stats:
 <div  align="center" valign="center">
   <div>
-    <img src="assets/topLeft.gif" height="144"/>
-    <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="144"/>
-    <img src="assets/topRight.gif" height="144"/>
+    <img src="assets/topLeft.gif" height="140"/>
+    <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="140"/>
+    <img src="assets/topRight.gif" height="140"/>
   </div>
   <div>
     <img src="assets/work.gif" height="460"/>
