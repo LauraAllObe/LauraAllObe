@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What advice do you give to a JS developer who has never played baseball?</p>
-            <p class="answer"><b>A.</b> Try catch. </p>
+            <p class="question"><b>Q.</b> Why can't you use 'Soup' as your password?</p>
+            <p class="answer"><b>A.</b> Because it isn't <code>stroganoff</code> </p>
           </div>
         </div>
       </div>
