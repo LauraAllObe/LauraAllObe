@@ -138,9 +138,11 @@ ___
 ## Stats:
 <div  align="center" valign="center">
   <div>
-    <img src="assets/topLeft.gif" height="140"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="140"/>
-    <img src="assets/topRight.gif" height="140"/>
+    <img src="assets/topLeft.gif" height="169"/>
+    <a href="https://github.com/LauraAllObe/wakatimeReadmeStats">
+      <img src="assets/wakatimeRank.svg" height="169"/>
+    </a>
+    <img src="assets/topRight.gif" height="169"/>
   </div>
   <div>
     <img src="assets/work.gif" height="460"/>
@@ -168,6 +170,6 @@ ___
 
 ___
 
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LauraAllObe&theme=road_trip" height="1">
+<img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="1"/>
 
 <img src="assets/profileGotchi.svg" align="center" width="40" height="40"/>
