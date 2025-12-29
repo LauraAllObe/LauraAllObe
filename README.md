@@ -1,5 +1,5 @@
 <div align="center" valign="center">
-  <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
+  <img src="assets/wavingCat.gif" width="60" height="60" />
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -14,7 +14,7 @@
       alt="Typing SVG"
     />
   </picture>
-  <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
+  <img src="assets/wavingCat.gif" width="60" height="60" />
 </div>  
 &nbsp;
 <div align="center" valign="center" >
@@ -138,21 +138,21 @@ ___
 ## Stats:
 <div  align="center" valign="center">
   <div>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatProfessional.gif" height="146"/>
-    <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LauraAllObe&theme=road_trip" height="146">
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/CatStudyingHard.gif" height="146"/>
+    <img src="assets/topLeft.gif" height="144"/>
+    <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="144"/>
+    <img src="assets/topRight.gif" height="144"/>
   </div>
   <div>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/work.gif" height="460"/>
+    <img src="assets/work.gif" height="460"/>
     <a href="https://github.com/LauraAllObe/wakatimeReadmeStats">
       <img src="assets/wakatimeStats.svg" height="460" />
     </a>
-    <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/workHome.gif" height="460"/>
+    <img src="assets/workHome.gif" height="460"/>
   </div>
   <div>
-      <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/typing.gif" height="137.5"/>
-      <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="137.5"/>
-      <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/writing.gif" height="137.5"/>
+      <img src="assets/bottomLeft.gif" height="152"/>
+      <img src="https://leetcard.jacoblin.cool/LauraAllObe?theme=light&font=Anek_Odia&colors=%23e6ddd8%2C%23ab8c7b%2C%23fcf9f2%2C%23997967%2C%23fcf9f2%2C%23ede5ce%2C%23e2cfa7%2C%23d3a950" height="152"/>
+      <img src="assets/bottomRight.gif" height="152"/>
   </div>
 </div>
 
@@ -160,12 +160,14 @@ ___
 
 <div align="center">
   <h2 align="left">Goodbye, and...</h2>
-  <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/catClosingDoor.gif" align="left" height="180"/>
+  <img src="assets/goodbye.gif" align="left" height="180"/>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23e6ddd8&borderColor=%23997967&qColor=%23ab8c7b&aColor=%23997967&textColor=%23997967&codeColor=%23997967" alt="Jokes Card" align="center" width="300" height="180"/>
-  <img align="right" src="https://github.com/LauraAllObe/LauraAllObe/blob/main/thankYouCatCube.gif" height="180"/>
+  <img align="right" src="assets/thankyou.gif" height="180"/>
   <h2 align="right">THANK YOU!!</h2>
 </div>
 
 ___
 
 <img src="https://github-readme-stats.vercel.app/api?username=LauraAllObe&bg_color=e6ddd8&border_color=ab8c7b&text_color=997967&title_color=fcf9f2&icon_color=fcf9f2&show_icons=true" height="1" href="https://github.com/anuraghazra/github-readme-stats">
+
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LauraAllObe&theme=road_trip" height="1">
