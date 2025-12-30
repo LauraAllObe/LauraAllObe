@@ -1,0 +1,42 @@
+name: Bust SVG cache in README
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bump-v:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Bump v= for selected SVGs in README
+        run: |
+          set -euo pipefail
+
+          # Stable daily value: YYYYMMDD (changes once per day)
+          V="$(date -u +%Y%m%d)"
+
+          # Only touch the 4 specific assets (whether or not they already have ?v=)
+          for f in assets/leetcodeStats.svg assets/wakatimeRank.svg assets/wakatimeStats.svg assets/profileGotchi.svg; do
+            # If src already has ?v=..., replace it
+            sed -i -E "s|($f)\?v=[0-9]+|\1?v=$V|g" README.md
+            # If src has no ?v=..., append it
+            sed -i -E "s|($f)(\"|')|\1?v=$V\2|g" README.md
+          done
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git commit -m "chore: bump README svg cache buster (v=$(date -u +%Y%m%d))"
+          git push
