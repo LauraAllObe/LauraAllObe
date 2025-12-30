@@ -26,7 +26,6 @@
 </div>
 <br/>
 
-__Jump to__ [About Me](https://github.com/LauraAllObe#about-me) | [Skills](https://github.com/LauraAllObe#skills) | [Stats](https://github.com/LauraAllObe#stats) | [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and) | [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
 ___
 
 ## About Me
