@@ -24,7 +24,7 @@
 </div>
 <br/>
 
-__Jump to__ [About Me](https://github.com/LauraAllObe#about-me) | [Repositories](https://github.com/LauraAllObe#repositories) | [Skills](https://github.com/LauraAllObe#skills) | [Stats](https://github.com/LauraAllObe#stats) | [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and) | [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
+__Jump to__ [About Me](https://github.com/LauraAllObe#about-me) | [Skills](https://github.com/LauraAllObe#skills) | [Stats](https://github.com/LauraAllObe#stats) | [Goodbye, and...](https://github.com/LauraAllObe#goodbye-and) | [THANK YOU!!](https://github.com/LauraAllObe#thank-you)
 ___
 
 ## About Me
@@ -42,25 +42,6 @@ ___
 
 ☕ I’m looking for full-time roles starting Spring <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=40&height=18&lines=2026" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026" /><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=40&height=18&lines=2026" alt="Typing SVG" /></picture> as a software engineer, AI engineer, or systems engineer (NYC or remote).
 
-___
-## Repositories:
-**[/elevatorKernelModule:](https://github.com/LauraAllObe/elevatorKernelModule)** an elevator kernel module implementation in C (group)  
-**[/fat32filesystem:](https://github.com/LauraAllObe/fat32filesystem)** basic fat<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=20&height=18&lines=32" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=20&height=18&lines=32" alt="Typing SVG" />
-  </picture> file system implementation in C (group)  
-**[/hackerNews:](https://github.com/LauraAllObe/hackerNews)** full-stack hacker news web app configured with nginx and gunciorn, implementation in Python (individual)  
-**[machineLearningProject:](https://github.com/LauraAllObe/machineLearningProject)** machine learning using combined models implemented in Python (group)  
-**[/myNotes:](https://github.com/LauraAllObe/myNotes)** full-stack sticky note (android) mobile application, implementation in Java (group)  
-**[/nutritionAnalyzer:](https://github.com/LauraAllObe/nutritionAnalyzer)** NLP-driven ingredient health effect summaries in Jupyter Notebook (individual)  
-**[/portfolio:](https://github.com/LauraAllObe/portfolio)** a portfolio showcasing my key projects and standout code snippets, implementation in HTML (individual)  
-**[/practicePanther:](https://github.com/LauraAllObe/practicePanther)** full-stack PracticePanther (Law Practice Management Software) implementation in C# (individual)  
-**[/proFessUp:](https://github.com/LauraAllObe/proFessUp)** full-stack rateMyProfessor implementation in Javascript (group)  
-**[/shell:](https://github.com/LauraAllObe/shell)** a minimal shell implementation in C (group)  
-**[/wakatimeReadmeStats:](https://github.com/LauraAllObe/wakatimeReadmeStats)** a code tracking visualizer using WakaTime stats and SVGs, implemented in JavaScript (individual)
-
-__*Note: some group projects were cloned from another directory or repository upon completion*__
 ___ 
 ## Skills:
 💼 I'm knowledgeable in <picture>
