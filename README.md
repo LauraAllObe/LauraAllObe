@@ -28,6 +28,24 @@ __Jump to__ [About Me](https://github.com/LauraAllObe#about-me) | [Skills](https
 ___
 
 ## About Me
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/albumWhite.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="assets/albumBlack.gif"
+  />
+  <img
+    src="assets/albumBlack.gif"
+    alt="Typing SVG"
+    align="right"
+    height="320"
+  />
+</picture>
+
 🐎 Hi, I’m Laura Lovelace. I’m a software engineer with a __B.S. in Computer Science__ from __Florida State University__ (FSU), a __M.S. in Software Engineering__ from __Stevens Institute of Technology__ (SIT), and <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=2" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2" /><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=2" alt="Typing SVG" /></picture> graduate certificates in __Machine Learning__ and __Cyber Security__. 
 
 🦦 Fun Fact: I've had an A/A- record for <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=10&height=18&lines=9" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=9" /><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=10&height=18&lines=9" alt="Typing SVG" /></picture> years, earned my bachelors in <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=2.5" />
