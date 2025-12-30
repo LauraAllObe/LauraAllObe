@@ -17,10 +17,12 @@
   <img src="assets/wavingCat.gif" width="60" height="60" />
 </div>  
 &nbsp;
-<div align="center" valign="center" >
-  <a href="https://hits.sh/github.com/LauraAllObe/hits/">
-    <img alt="Visitor #" src="https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8"/>
-  </a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/static/v1?label=view&labelColor=505050&message=LinkedIn&color=%23e6ddd8&style=flat&logoColor=%230076D6)](https://www.linkedin.com/in/laura-a-lovelace/)
+[![Visitor #](https://hits.sh/github.com/LauraAllObe/hits.svg?color=e6ddd8)](https://hits.sh/github.com/LauraAllObe/hits/)
+[![Portfolio](https://img.shields.io/static/v1?label=view&labelColor=505050&message=Portfolio&color=%23e6ddd8&style=flat&logoColor=%230076D6)](https://lauralovelace.info)
+
 </div>
 <br/>
 
