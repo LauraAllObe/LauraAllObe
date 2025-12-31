@@ -67,15 +67,14 @@ ___
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://gitpets.fly.dev/api?username=lauraallobe&petname=GitHub%20Pet&theme=dark&species=wolf"
+    srcset="https://gitpets.fly.dev/api?username=LauraAllObe&petname=GitHub%20Pet&theme=dark&species=wolf"
   />
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://gitpets.fly.dev/api?username=lauraallobe&petname=GitHub%20Pet&theme=light&species=wolf"
+    srcset="https://gitpets.fly.dev/api?username=LauraAllObe&petname=GitHub%20Pet&theme=light&species=wolf"
   />
   <img
-    src="https://gitpets.fly.dev/api?username=lauraallobe&petname=GitHub%20Pet&theme=dark&species=wolf"
-    alt="Typing SVG"
+    src="https://gitpets.fly.dev/api?username=LauraAllObe&petname=GitHub%20Pet&theme=dark&species=wolf"
     align="right"
     height="1"
   />
