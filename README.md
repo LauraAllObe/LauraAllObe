@@ -1,4 +1,4 @@
-
+<div align="center" valign="center">
   <img src="assets/wavingCat.gif" width="60" height="60" />
   <picture>
     <source
