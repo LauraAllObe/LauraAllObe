@@ -1,4 +1,4 @@
-<div align="center" valign="center">
+c
   <img src="assets/wavingCat.gif" width="60" height="60" />
   <picture>
     <source
@@ -63,6 +63,24 @@ ___
 
 ___ 
 ## Skills:
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://gitpets.fly.dev/api?username=lauraallobe&petname=GitHub%20Pet&theme=dark&species=wolf"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://gitpets.fly.dev/api?username=lauraallobe&petname=GitHub%20Pet&theme=light&species=wolf"
+  />
+  <img
+    src="https://gitpets.fly.dev/api?username=lauraallobe&petname=GitHub%20Pet&theme=dark&species=wolf"
+    alt="Typing SVG"
+    align="right"
+    height="1"
+  />
+</picture>
+
 💼 I'm knowledgeable in <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=13%2B" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=13%2B" />
@@ -177,5 +195,3 @@ ___
 </div>
 
 ___
-
-<img src="assets/profileGotchi.svg?v=20251231" align="center" height="1"/>
