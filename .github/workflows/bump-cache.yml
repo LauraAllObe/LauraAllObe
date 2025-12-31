@@ -19,15 +19,11 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Stable daily value: YYYYMMDD (changes once per day)
           V="$(date -u +%Y%m%d)"
 
-          # Only touch the 4 specific assets (whether or not they already have ?v=)
           for f in assets/leetcodeStats.svg assets/wakatimeRank.svg assets/wakatimeStats.svg assets/profileGotchi.svg; do
-            # If src already has ?v=..., replace it
-            sed -i -E "s|($f)\?v=[0-9]+|\1?v=$V|g" README.md
-            # If src has no ?v=..., append it
-            sed -i -E "s|($f)(\"|')|\1?v=$V\2|g" README.md
+            sed -i -E "s#($f)\?v=[0-9]+#\1?v=$V#g" README.md
+            sed -i -E "s#($f)(\"|')#\1?v=$V\2#g" README.md
           done
 
       - name: Commit & push if changed
