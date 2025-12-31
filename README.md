@@ -148,7 +148,7 @@ ___
   <div>
     <img src="assets/topLeft.gif" height="155.5"/>
     <a href="https://github.com/LauraAllObe/wakatimeReadmeStats">
-      <img src="assets/wakatimeRank.svg?v=1" height="155.5"/>
+      <img src="assets/wakatimeRank.svg?v=2" height="155.5"/>
     </a>
     <img src="assets/topRight.gif" height="155.5"/>
   </div>
