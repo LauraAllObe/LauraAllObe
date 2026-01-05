@@ -165,20 +165,20 @@ ___
   <div>
     <img src="assets/topLeft.gif" height="145.5"/>
     <a href="https://github.com/LauraAllObe/wakatimeReadmeStats">
-      <img src="assets/wakatimeRank.svg?v=20260104" height="145.5"/>
+      <img src="assets/wakatimeRank.svg?v=20260105" height="145.5"/>
     </a>
     <img src="assets/topRight.gif" height="145.5"/>
   </div>
   <div>
     <img src="assets/work.gif" height="460"/>
     <a href="https://github.com/LauraAllObe/wakatimeReadmeStats">
-      <img src="assets/wakatimeStats.svg?v=20260104" height="460" />
+      <img src="assets/wakatimeStats.svg?v=20260105" height="460" />
     </a>
     <img src="assets/workHome.gif" height="460"/>
   </div>
   <div>
       <img src="assets/bottomLeft.gif" height="152"/>
-      <img src="assets/leetcodeStats.svg?v=20260104" height="152"/>
+      <img src="assets/leetcodeStats.svg?v=20260105" height="152"/>
       <img src="assets/bottomRight.gif" height="152"/>
   </div>
 </div>
