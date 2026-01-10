@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why did 10 get paid less than "10"?</p>
-            <p class="answer"><b>A.</b> There was workplace inequality. </p>
+            <p class="question"><b>Q.</b> What accommodations did the JavaScript developer request at the hotel?</p>
+            <p class="answer"><b>A.</b> A room with a Vue. </p>
           </div>
         </div>
       </div>
