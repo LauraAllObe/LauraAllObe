@@ -31,12 +31,12 @@
 <g transform="translate(160,43) scale(0.0234375)" fill="#fcf9f2" stroke="#fcf9f2"><path d="M432 320V144a32 32 0 00-32-32h0a32 32 0 00-32 32v112M368 256V80a32 32 0 00-32-32h0a32 32 0 00-32 32v160M240 241V96a32 32 0 00-32-32h0a32 32 0 00-32 32v224M304 240V48a32 32 0 00-32-32h0a32 32 0 00-32 32v192" fill="none" stroke="#fcf9f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M432 320c0 117.4-64 176-152 176s-123.71-39.6-144-88L83.33 264c-6.66-18.05-3.64-34.79 11.87-43.6h0c15.52-8.82 35.91-4.28 44.31 11.68L176 320" fill="none" stroke="#fcf9f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/>
 </g><text x="178" y="53" font-size="12" fill="#997967" font-family="Calibri"><tspan font-weight="bold">Total Repos:</tspan> +2</text>
 <g transform="translate(298,25) scale(0.0234375)" fill="#fcf9f2" stroke="#fcf9f2"><circle cx="128" cy="416" r="48" fill="none" stroke="#fcf9f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path fill="none" stroke="#fcf9f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M128 144v224M288 160l-64-64 64-64"/><circle cx="128" cy="96" r="48" fill="none" stroke="#fcf9f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><circle cx="384" cy="416" r="48" fill="none" stroke="#fcf9f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M240 96h84a60 60 0 0160 60v212" fill="none" stroke="#fcf9f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/>
-</g><text x="316" y="35" font-size="12" fill="#997967" font-family="Calibri"><tspan font-weight="bold">Total PRs:</tspan> +3</text>
+</g><text x="316" y="35" font-size="12" fill="#997967" font-family="Calibri"><tspan font-weight="bold">Total PRs:</tspan> +2</text>
 <g transform="translate(298,43) scale(0.0234375)" fill="#fcf9f2" stroke="#fcf9f2"><path d="M480 208H308L256 48l-52 160H32l140 96-54 160 138-100 138 100-54-160z" fill="none" stroke="#fcf9f2" stroke-linejoin="round" stroke-width="48"/>
 </g><text x="316" y="53" font-size="12" fill="#997967" font-family="Calibri"><tspan font-weight="bold">Total Stars:</tspan> +3</text>
       
       <rect x="160" y="81" width="225" height="8" fill="#fcf9f2" rx="4" opacity="0.3"/>
-      <rect x="160" y="81" width="183.34621019898546" height="8" fill="#fcf9f2" rx="4"/>
+      <rect x="160" y="81" width="183.4052519296167" height="8" fill="#fcf9f2" rx="4"/>
       <text x="385" y="106" font-size="11" text-anchor="end" fill="#997967" font-family="Calibri">
         Rank Up in 36.7/45.0 pts
       </text>
