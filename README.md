@@ -75,14 +75,15 @@ ___
 </picture>
 
 💼 I'm knowledgeable in <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=13%2B" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=13%2B" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=13%2B" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=14%2B" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=14%2B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=14%2B" alt="Typing SVG" />
   </picture> __programming languages__, including
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/c.svg"></code>C, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>C++, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/csharp.svg"></code>C#, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>Python, 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/go.svg"></code>Go, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>Typescript, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>Javascript, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>Java, 
@@ -109,9 +110,9 @@ Hugging Face Transformers, and
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/openai.svg"></code>OpenAI.  
 
 🪑 I'm knowledgeable in <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=24%2B" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=24%2B" />
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=24%2B" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=e6ddd8&center=true&vCenter=true&width=30&height=18&lines=25%2B" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=25%2B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=30&duration=2000&pause=1000&color=714542BB&center=true&vCenter=true&width=30&height=18&lines=25%2B" alt="Typing SVG" />
   </picture> __technologies and tools__, including 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>Git, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></code>GitHub, 
@@ -122,7 +123,8 @@ Hugging Face Transformers, and
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg"></code>Heroku, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/npm.svg"></code>NPM, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/latex.svg"></code>LaTeX, 
-<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>Jupyter Notebook, 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>Jupyter, 
+<code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googleearth.svg"></code>USGS Landsat 8, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/androidstudio.svg"></code>Android Studio, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudio.svg"></code>Visual Studio, 
 <code><img height="12" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>VSCode, 
