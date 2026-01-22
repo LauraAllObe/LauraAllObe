@@ -3,7 +3,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=e6ddd8&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Laura's+GitHub!"
+      srcset="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=786254&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Laura's+GitHub!"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
