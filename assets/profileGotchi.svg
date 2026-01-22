@@ -49,16 +49,16 @@
         
     <g transform="translate(226, -25)">
       <!-- Speech bubble -->
-      <rect x="0" y="0" width="139" height="24" rx="10" ry="10" 
+      <rect x="0" y="0" width="167" height="24" rx="10" ry="10" 
             fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <!-- Bubble tail -->
       <polygon points="15,24 20,32 25,24" 
                fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <line x1="16" y1="24" x2="24" y2="24" stroke="#FFFFFF" stroke-width="2"/>
       <!-- Text -->
-      <text x="69.5" y="16" 
+      <text x="83.5" y="16" 
             font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
-            fill="#2d333b" text-anchor="middle">💤 BRB napping...</text>
+            fill="#2d333b" text-anchor="middle">404: Energy not found</text>
     </g>
   
         <!-- Seasonal Accessory (z-index: above pet) -->
@@ -67,21 +67,21 @@
       
       <!-- Level & Mood Text -->
       <text x="20" y="299" font-family="monospace" font-size="11" fill="#666">
-        ⭐ Lv.43 Adult
+        ⭐ Lv.44 Adult
       </text>
       <text x="276" y="299" text-anchor="end" font-family="monospace" font-size="11" fill="#666">
-        💤 SLEEPING ⚡1
+        💤 SLEEPING ⚡2
       </text>
       
       <!-- XP Progress Bar -->
       <rect x="20" y="306" width="256" height="8" rx="4" fill="#e0e0e0" stroke="#0288d1" stroke-width="1"/>
-      <rect x="20" y="306" width="245.76" height="8" rx="4" fill="#4fc3f7">
-        <animate attributeName="width" from="0" to="245.76" dur="0.5s" fill="freeze"/>
+      <rect x="20" y="306" width="74.24" height="8" rx="4" fill="#4fc3f7">
+        <animate attributeName="width" from="0" to="74.24" dur="0.5s" fill="freeze"/>
       </rect>
       
       <!-- XP Text -->
       <text x="50%" y="329" text-anchor="middle" font-family="monospace" font-size="9" fill="#666">
-        XP: 18460 / 18490 (96%)
+        XP: 18750 / 19360 (29%)
       </text>
     
       
