@@ -188,5 +188,3 @@ ___
   <img align="right" src="assets/thankYou.gif" height="180"/>
   <h2 align="right">THANK YOU!!</h2>
 </div>
-
-___
