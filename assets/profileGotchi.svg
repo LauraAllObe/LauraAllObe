@@ -49,16 +49,16 @@
         
     <g transform="translate(226, -25)">
       <!-- Speech bubble -->
-      <rect x="0" y="0" width="111" height="24" rx="10" ry="10" 
+      <rect x="0" y="0" width="62" height="24" rx="10" ry="10" 
             fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <!-- Bubble tail -->
       <polygon points="15,24 20,32 25,24" 
                fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <line x1="16" y1="24" x2="24" y2="24" stroke="#FFFFFF" stroke-width="2"/>
       <!-- Text -->
-      <text x="55.5" y="16" 
+      <text x="31" y="16" 
             font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
-            fill="#2d333b" text-anchor="middle">Recharging...</text>
+            fill="#2d333b" text-anchor="middle">zzZ...</text>
     </g>
   
         <!-- Seasonal Accessory (z-index: above pet) -->
@@ -70,7 +70,7 @@
         ⭐ Lv.44 Adult
       </text>
       <text x="276" y="299" text-anchor="end" font-family="monospace" font-size="11" fill="#666">
-        💤 SLEEPING 🔥5
+        💤 SLEEPING 
       </text>
       
       <!-- XP Progress Bar -->
@@ -90,30 +90,24 @@
     <g class="achievements">
       
       <g transform="translate(5, 0)">
-        <title>Spark: 3 day streak</title>
-        <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
-        <text x="10" y="14" text-anchor="middle" font-size="11">⚡</text>
-      </g>
-    
-      <g transform="translate(30, 0)">
         <title>Rising Star: Level 5</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
         <text x="10" y="14" text-anchor="middle" font-size="11">🌟</text>
       </g>
     
-      <g transform="translate(55, 0)">
+      <g transform="translate(30, 0)">
         <title>Shining: Level 10</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
         <text x="10" y="14" text-anchor="middle" font-size="11">✨</text>
       </g>
     
-      <g transform="translate(80, 0)">
+      <g transform="translate(55, 0)">
         <title>Rainbow: Level 25</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
         <text x="10" y="14" text-anchor="middle" font-size="11">🌈</text>
       </g>
     
-      <g transform="translate(105, 0)">
+      <g transform="translate(80, 0)">
         <title>Weekend Warrior: Weekend commit</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
         <text x="10" y="14" text-anchor="middle" font-size="11">🏖️</text>
