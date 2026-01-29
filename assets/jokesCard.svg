@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What is the biggest lie you have heard from a programmer?</p>
-            <p class="answer"><b>A.</b> It should work now. </p>
+            <p class="question"><b>Q.</b> An Agent died unexpectedly. How was the crime solved?</p>
+            <p class="answer"><b>A.</b> By looking at the Stack Trace. </p>
           </div>
         </div>
       </div>
