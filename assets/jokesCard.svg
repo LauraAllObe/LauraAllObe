@@ -49,7 +49,7 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="quote">LISP - Lots of Infuriating Superfluous Parentheses</p>
+            <p class="quote">Lisp programmers don't make prank calls. They make <code>FUNCALL</code>s</p>
           </div>
         </div>
       </div>
