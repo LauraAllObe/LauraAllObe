@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why doesn't Chuck Norris need garbage collection.</p>
-            <p class="answer"><b>A.</b> Because he doesn’t call <code>.Dispose()</code>, he calls <code>.DropKick()</code>. </p>
+            <p class="question"><b>Q.</b> Why was the developer unhappy at their job?</p>
+            <p class="answer"><b>A.</b> They wanted arrays. </p>
           </div>
         </div>
       </div>
