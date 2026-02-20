@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What do you get when you cross a computer with an elephant?</p>
-            <p class="answer"><b>A.</b> Lots of memory! </p>
+            <p class="question"><b>Q.</b> How do you help JS errors?</p>
+            <p class="answer"><b>A.</b> You <code>console</code> them! </p>
           </div>
         </div>
       </div>
