@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What's 0.1+0.2?</p>
-            <p class="answer"><b>A.</b> It's 0.30000000000000004 </p>
+            <p class="question"><b>Q.</b> Why do all HTML emails get blocked?</p>
+            <p class="answer"><b>A.</b> Because they are all <code>span</code> </p>
           </div>
         </div>
       </div>
