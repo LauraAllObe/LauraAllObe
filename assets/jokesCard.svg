@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What do you call optimistic front-end developers?</p>
-            <p class="answer"><b>A.</b> Stack half-full developers. </p>
+            <p class="question"><b>Q.</b> What advice do you give to a JS developer who has never played baseball?</p>
+            <p class="answer"><b>A.</b> Try catch. </p>
           </div>
         </div>
       </div>
