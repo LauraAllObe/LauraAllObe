@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why did the document store go out of business?</p>
-            <p class="answer"><b>A.</b> It had NoSQL. </p>
+            <p class="question"><b>Q.</b> Why couldn't the React component understand the joke?</p>
+            <p class="answer"><b>A.</b> Because it didn't get the context. </p>
           </div>
         </div>
       </div>
