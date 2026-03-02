@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why did the angry function exceed the callstack size?</p>
-            <p class="answer"><b>A.</b> It got into an Argument with itself </p>
+            <p class="question"><b>Q.</b> Why did the functional programmer finally move out of their house?</p>
+            <p class="answer"><b>A.</b> For(e) closure </p>
           </div>
         </div>
       </div>
