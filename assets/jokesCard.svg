@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Did you know?</p>
-            <p class="answer"><b>A.</b> Spiders are the only web developers in the world that like finding bugs </p>
+            <p class="question"><b>Q.</b> How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?</p>
+            <p class="answer"><b>A.</b> git stache pop </p>
           </div>
         </div>
       </div>
