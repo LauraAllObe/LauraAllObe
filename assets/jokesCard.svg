@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> How do programming shepherds count their flock?</p>
-            <p class="answer"><b>A.</b> With lambda functions </p>
+            <p class="question"><b>Q.</b> Why can't you use 'Soup' as your password?</p>
+            <p class="answer"><b>A.</b> Because it isn't <code>stroganoff</code> </p>
           </div>
         </div>
       </div>
