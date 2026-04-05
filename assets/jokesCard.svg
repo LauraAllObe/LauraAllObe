@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What do computers and air conditioners have in common?</p>
-            <p class="answer"><b>A.</b> They both become useless when you open windows. </p>
+            <p class="question"><b>Q.</b> How did the developer announce their engagement?</p>
+            <p class="answer"><b>A.</b> They <code>return</code>ed <code>true</code>! </p>
           </div>
         </div>
       </div>
