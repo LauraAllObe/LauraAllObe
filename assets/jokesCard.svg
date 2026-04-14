@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why couldn't the React component understand the joke?</p>
-            <p class="answer"><b>A.</b> Because it didn't get the context. </p>
+            <p class="question"><b>Q.</b> What do you call a programmer from Finland?</p>
+            <p class="answer"><b>A.</b> Nerdic </p>
           </div>
         </div>
       </div>
