@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why doesn't Chuck Norris need garbage collection.</p>
-            <p class="answer"><b>A.</b> Because he doesn’t call <code>.Dispose()</code>, he calls <code>.DropKick()</code>. </p>
+            <p class="question"><b>Q.</b> Why did the geek add <code>body { padding-top: 1000px; }</code> to his Facebook profile?</p>
+            <p class="answer"><b>A.</b> He wanted to keep a low profile. </p>
           </div>
         </div>
       </div>
