@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why do programmers always mix up Halloween and Christmas?</p>
-            <p class="answer"><b>A.</b> Because 31 OCT == 25 DEC </p>
+            <p class="question"><b>Q.</b> How does a developer make a cheer?</p>
+            <p class="answer"><b>A.</b> ["hip","hip"] // (hip hip array!) </p>
           </div>
         </div>
       </div>
