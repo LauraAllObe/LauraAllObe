@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> How do programming shepherds count their flock?</p>
-            <p class="answer"><b>A.</b> With lambda functions </p>
+            <p class="question"><b>Q.</b> Which programming language is the shortest?</p>
+            <p class="answer"><b>A.</b> HTML. Because it doesn't have a neck between its <code>head</code> and <code>body</code>. </p>
           </div>
         </div>
       </div>
