@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Where did the API go to eat?</p>
-            <p class="answer"><b>A.</b> To the RESTaurant </p>
+            <p class="question"><b>Q.</b> Why don't bachelors like Git?</p>
+            <p class="answer"><b>A.</b> Because they are afraid to commit. </p>
           </div>
         </div>
       </div>
