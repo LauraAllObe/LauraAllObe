@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What did the process say after working in an infinite loop all day?</p>
-            <p class="answer"><b>A.</b> I need a break. </p>
+            <p class="question"><b>Q.</b> Why doesn't Chuck Norris need garbage collection.</p>
+            <p class="answer"><b>A.</b> Because he doesn’t call <code>.Dispose()</code>, he calls <code>.DropKick()</code>. </p>
           </div>
         </div>
       </div>
