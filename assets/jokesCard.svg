@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What is React's favorite movie genre?</p>
-            <p class="answer"><b>A.</b> Suspense </p>
+            <p class="question"><b>Q.</b> What PostgreSQL library should Python developers use for adult-oriented code?</p>
+            <p class="answer"><b>A.</b> psycoPG13 </p>
           </div>
         </div>
       </div>
