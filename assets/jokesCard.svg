@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What did the spider do on the computer?</p>
-            <p class="answer"><b>A.</b> Made a website! </p>
+            <p class="question"><b>Q.</b> Why didn't the <code>div</code> get invited to the dinner party?</p>
+            <p class="answer"><b>A.</b> Because it had no <code>class</code>! </p>
           </div>
         </div>
       </div>
