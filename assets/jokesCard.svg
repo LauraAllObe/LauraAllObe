@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What did the command line die of?</p>
-            <p class="answer"><b>A.</b> A Terminal illness. </p>
+            <p class="question"><b>Q.</b> Why does the Docker container fail?</p>
+            <p class="answer"><b>A.</b> So that, Kubernetes can start it again </p>
           </div>
         </div>
       </div>
