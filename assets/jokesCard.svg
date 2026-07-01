@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why does the Docker container fail?</p>
-            <p class="answer"><b>A.</b> So that, Kubernetes can start it again </p>
+            <p class="question"><b>Q.</b> How does a developer make a cheer?</p>
+            <p class="answer"><b>A.</b> ["hip","hip"] // (hip hip array!) </p>
           </div>
         </div>
       </div>
