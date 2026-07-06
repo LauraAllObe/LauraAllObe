@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Have you heard the one about the Corduroy pillow?</p>
-            <p class="answer"><b>A.</b> It's making HEADLINES! </p>
+            <p class="question"><b>Q.</b> Why doesn't Chuck Norris need garbage collection.</p>
+            <p class="answer"><b>A.</b> Because he doesn’t call <code>.Dispose()</code>, he calls <code>.DropKick()</code>. </p>
           </div>
         </div>
       </div>
