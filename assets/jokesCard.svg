@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What accommodations did the JavaScript developer request at the hotel?</p>
-            <p class="answer"><b>A.</b> A room with a Vue. </p>
+            <p class="question"><b>Q.</b> When do front end developers go out to eat?</p>
+            <p class="answer"><b>A.</b> On their lunch <code>&lt;&#98;&#114;&gt;</code>. </p>
           </div>
         </div>
       </div>
