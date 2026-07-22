@@ -26,6 +26,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets/wakatimeStats.svg
+          git add assets/wakatimeStats2.svg
           git commit -m "Update WakaTime stats SVG" || echo "No changes"
           git push
