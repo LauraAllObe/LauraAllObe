@@ -31,7 +31,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#fff1df" stroke-width="0.5"/>
-<polygon points="181.5,55.49159663865544 248.5057640147308,87.77056864945916 225.63863185857292,151.2802370431696 207.0100017546656,194.17794682310216 155.9467623385581,194.26772710862335 154.6393547209461,147.3366493557938 119.25459880453471,91.56683131924864" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
+<polygon points="181.5,55.49159663865544 243.37353723770175,91.86338292984954 217.79235625867923,149.48937583922722 206.52868097082728,193.17847391684688 155.9467623385581,194.26772710862335 154.6393547209461,147.3366493557938 119.25459880453471,91.56683131924864" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Wed</text>
@@ -66,9 +66,9 @@
       </g>
 <g transform="translate(30, 490.75) scale(1.2)">
         <g transform="translate(0, 132.6)">
-<text font-family="Calibri" x="20" y="-110.49999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Total Time:</tspan> 130 hrs 5 mins</text>
+<text font-family="Calibri" x="20" y="-110.49999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Total Time:</tspan> 127 hrs 39 mins</text>
 <text font-family="Calibri" x="20" y="-88.39999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Daily Average:</tspan> 1 hr 18 mins</text>
-<text font-family="Calibri" x="20" y="-66.3" fill="#997967" font-size="13"><tspan font-weight="bold">Top Languages:</tspan> Python, HTML, TypeScript</text>
+<text font-family="Calibri" x="20" y="-66.3" fill="#997967" font-size="13"><tspan font-weight="bold">Top Languages:</tspan> Python, TypeScript, HTML</text>
 <text font-family="Calibri" x="20" y="-44.199999999999996" fill="#997967" font-size="13"><tspan font-weight="bold">Top Projects:</tspan> Portfolio, SSW695-A_Fall2025, nflML</text>
 <text font-family="Calibri" x="20" y="-22.099999999999998" fill="#997967" font-size="13"><tspan font-weight="bold">Top OS:</tspan> Windows</text>
 <text font-family="Calibri" x="20" y="0" fill="#997967" font-size="13"><tspan font-weight="bold">Most Active Day:</tspan> January 18th, 2026</text>
