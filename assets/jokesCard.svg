@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why did the developer have to quit smoking?</p>
-            <p class="answer"><b>A.</b> Because they couldn't afford to pay the new syntax. </p>
+            <p class="question"><b>Q.</b> Which programming language is the shortest?</p>
+            <p class="answer"><b>A.</b> HTML. Because it doesn't have a neck between its <code>head</code> and <code>body</code>. </p>
           </div>
         </div>
       </div>
