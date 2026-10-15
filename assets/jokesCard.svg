@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why does the Docker container fail?</p>
-            <p class="answer"><b>A.</b> So that, Kubernetes can start it again </p>
+            <p class="question"><b>Q.</b> You know what the best thing about booleans is?</p>
+            <p class="answer"><b>A.</b> Even if you are wrong, you are only off by a bit. </p>
           </div>
         </div>
       </div>
