@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why couldn’t the user update a file on a shared server?</p>
-            <p class="answer"><b>A.</b> They didn’t have the write permissions </p>
+            <p class="question"><b>Q.</b> Why do all HTML emails get blocked?</p>
+            <p class="answer"><b>A.</b> Because they are all <code>span</code> </p>
           </div>
         </div>
       </div>
