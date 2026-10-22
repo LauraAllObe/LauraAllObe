@@ -31,7 +31,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#fff1df" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#fff1df" stroke-width="0.5"/>
-<polygon points="181.5,55.49159663865544 229.29850995678908,103.08784263417124 215.26168648940205,148.91176697855326 202.7232572808088,185.2764302015003 158.6542793004735,188.6455102056235 157.53675943939677,146.6753356361402 116.33548452468669,89.23891536196322" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
+<polygon points="181.5,55.49159663865544 213.88333686954115,115.38103295626769 215.09962650941645,148.87477784566175 202.32281844665508,184.44491039436156 158.6542793004735,188.6455102056235 157.53675943939677,146.6753356361402 116.33548452468669,89.23891536196322" fill="#fcf9f2" fill-opacity="0.2" stroke="#fcf9f2" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#997967">Wed</text>
@@ -66,8 +66,8 @@
       </g>
 <g transform="translate(0, 490.75) scale(1.2)">
         <g transform="translate(0, 132.6)">
-<text font-family="Calibri" x="20" y="-110.49999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Total Time:</tspan> 67 hrs 21 mins</text>
-<text font-family="Calibri" x="20" y="-88.39999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Daily Average:</tspan> 1 hr 10 mins</text>
+<text font-family="Calibri" x="20" y="-110.49999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Total Time:</tspan> 63 hrs 41 mins</text>
+<text font-family="Calibri" x="20" y="-88.39999999999999" fill="#997967" font-size="13"><tspan font-weight="bold">Daily Average:</tspan> 1 hr 8 mins</text>
 <text font-family="Calibri" x="20" y="-66.3" fill="#997967" font-size="13"><tspan font-weight="bold">Top Languages:</tspan> TypeScript, Go, HTML</text>
 <text font-family="Calibri" x="20" y="-44.199999999999996" fill="#997967" font-size="13"><tspan font-weight="bold">Top Projects:</tspan> Portfolio, SSW695-A_Fall2025, takehomeAssessment</text>
 <text font-family="Calibri" x="20" y="-22.099999999999998" fill="#997967" font-size="13"><tspan font-weight="bold">Top OS:</tspan> Windows</text>
