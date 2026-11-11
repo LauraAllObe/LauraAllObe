@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What PostgreSQL library should Python developers use for adult-oriented code?</p>
-            <p class="answer"><b>A.</b> psycoPG13 </p>
+            <p class="question"><b>Q.</b> How did the developer announce their engagement?</p>
+            <p class="answer"><b>A.</b> They <code>return</code>ed <code>true</code>! </p>
           </div>
         </div>
       </div>
